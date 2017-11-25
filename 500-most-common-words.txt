@@ -1,0 +1,500 @@
+dad;a-ba;אבא
+watermelon;a-va-ti-akh;אבטיח
+Spring;a-viv;אביב
+but;a-val;אבל
+thumb;a-gu-dal;אגודל
+walnut;e-goz me-lekh;אגוז מלך
+pear;a-gas;אגס
+red;a-dom;אדום
+or;o;או
+ear;o-zen;אוזן
+bus;o-to-bus;אוטובוס
+food;o-khel;אוכל
+maybe;u-lai;אולי
+university;u-ni-ver-si-ta;אוניברסיטה
+bicycle;o-fa-na-yim;אופניים
+rice;o-rez;אורז
+so, then;az;אז
+brother;akh;אח
+sister;a-khot;אחות
+last, final;a-kha-ron;אחרון
+which;ei-ze;איזה
+slow;i-ti;איטי
+how;eikh;איך
+mom;i-ma;אימא
+there isn’t/aren’t;ein;אין
+where;ei-fo;איפה
+wife;i-sha;אישה
+if;im;אם
+English;an-glit;אנגלית
+we;a-nakh-nu;אנחנו
+I;a-ni;אני
+pineapple;a-na-nas;אננס
+forbidden;a-sur;אסור
+nose;af;אף
+peach;a-far-sek;אפרסק
+(it is) possible;ef-shar;אפשר
+finger, toe;ets-ba;אצבע
+breakfast;a-ru-khat bo-ker;ארוחת בוקר
+dinner;a-ru-khat e-rev;ארוחת ערב
+lunch;a-ru-khat tso-ho-ra-yim;ארוחת צהריים
+wallet;ar-nak;ארנק
+grapefruit;esh-ko-lit;אשכולית
+you (f.);at;את
+you (m.);a-ta;אתה
+you (m.p.);a-tem;אתם
+yesterday;et-mol;אתמול
+you (f.p.);a-ten;אתן
+in, at;be, ba;ב...
+please;be-va-ka-sha;בבקשה
+clothes;be-ga-dim;בגדים
+good luck;be-hats-la-kha;בהצלחה
+morning;bo-ker;בוקר
+outside;ba-khuts;בחוץ
+sweet potato;ba-ta-ta;בטטה
+stomach/abdomen/tummy;be-ten;בטן
+together;be-ya-khad;ביחד
+medium;bei-no-ni;בינוני
+egg;bei-tsa;ביצה
+beer;bi-ra;בירה
+house;ba-yit;בית
+hospital;beit kho-lim;בית חולים
+synagogue;beit kne-set;בית כנסת
+pharmacy;beit mir-ka-khat;בית מרקחת
+school;beit se-fer;בית ספר
+without;bli;בלי
+son;ben;בן
+cousin;ben dod;בן דוד
+gasoline;ben-zin;בנזין
+building;bin-yan;בניין
+banana;ba-na-na;בננה
+bank;bank;בנק
+okay;be-se-der;בסדר
+husband;ba-al;בעל
+inside;bif-nim;בפנים
+onion;ba-tsal;בצל
+bottle;bak-buk;בקבוק
+beef;ba-kar;בקר
+soon;be-ka-rov;בקרוב
+healthy;ba-ri;בריא
+meat;ba-sar;בשר
+daughter;bat;בת
+cockroach;juk;ג'וק
+back;gav;גב
+high;ga-vo-ha;גבוה
+cheese;gvi-na;גבינה
+big;ga-dol;גדול
+height;go-va;גובה
+body;guf;גוף
+carrot;ge-zer;גזר
+ice cream;gli-da;גלידה
+also;gam;גם
+socks;gar-ba-yim;גרביים
+rain;ge-shem;גשם
+honey;dvash;דבש
+fish;dag;דג
+mail; post office;do-ar;דואר
+cherry;duv-de-van;דובדבן
+uncle;dod;דוד
+aunt;do-da;דודה
+apartment;di-ra;דירה
+door;de-let;דלת
+minute;da-ka;דקה
+South;da-rom;דרום
+passport;dar-kon;דרכון
+religious;da-ti;דתי
+the;ha;ה...
+next;ha-ba;הבא
+he;hu;הוא
+turkey;ho-du;הודו
+present (tense);ho-ve;הווה
+parents;ho-rim;הורים
+she;hi;היא
+today;ha-yom;היום
+they (m.);hem;הם
+they (f.);hen;הן
+break;haf-sa-ka;הפסקה
+a lot;har-be;הרבה
+exercise;hit-am-lut;התעמלות
+and;ve;ו...
+this;ze;זה
+cheap;zol;זול
+olive;za-yit;זית
+time;zman;זמן
+old (person);za-ken;זקן
+friend;kha-ver;חבר
+company;khev-ra;חברה
+holiday;khag;חג
+belt;kha-go-ra;חגורה
+room;khe-der;חדר
+new;kha-dash;חדש
+news;kha-da-shot;חדשות
+month;kho-desh;חודש
+sick;kho-le;חולה
+shirt;khul-tsa;חולצה
+brown;khum;חום
+hummus;khu-mus;חומוס
+beach;khof;חוף
+vacation;khuf-sha;חופשה
+Winter;kho-ref;חורף
+chest;kha-ze;חזה
+strong;kha-zak;חזק
+milk;kha-lav;חלב
+challah;kha-la;חלה
+window;kha-lon;חלון
+secular;khi-lo-ni;חלוני
+hot;kham;חם
+butter;khem-a;חמאה
+pickles;kha-mu-tsim;חמוצים
+store;kha-nut;חנות
+lettuce;kha-sa;חסה
+skirt;kha-tsa-it;חצאית
+half (of something);khe-tsi;חצי
+spicy (hot);kha-rif;חריף
+bill, check;khesh-bon;חשבון
+important;kha-shuv;חשוב
+cat;kha-tul;חתול
+good;tov;טוב
+trip, hike;ti-yul;טיול
+lamb;ta-le;טלה
+tv;te-le-viz-ya;טלוויזיה
+telephone;te-le-fon;טלפון
+tasty;ta-im;טעים
+get going;ya-la;יאללה
+arm;yad;יד
+Jewish;ye-hu-di;יהודי
+yogurt;yo-gurt;יוגורט
+day;yom;יום
+Thursday;yom kha-mi-shi;יום חמישי
+Sunday;yom ri-shon;יום ראשון
+Wednesday;yom re-vi-i;יום רביעי
+Tuesday;yom shli-shi;יום שלישי
+Monday;yom she-ni;יום שני
+Friday;yom shi-shi;יום שישי
+singular; single (not married);ya-khid;יחיד
+wine;ya-yin;יין
+boy;ye-led;ילד
+girl;yal-da;ילדה
+sea;yam;ים
+right (direction);ya-mi-na;ימינה
+beautiful;ya-fe;יפה
+exit;ye-tsi-a;יציאה
+expensive;ya-kar;יקר
+green;ya-rok;ירוק
+moon;ya-re-akh;ירח
+vegetables;ye-ra-kot;ירקות
+there is/are;yesh;יש
+old (thing);ya-shan;ישן
+straight ahead; honest;ya-shar;ישר
+Israel;is-ra-el;ישראל
+mosquito;ya-tush;יתוש
+as;ke;כ...
+pain/ache;ke-ev;כאב
+road, route;kvish;כביש
+ball;ka-dur;כדור
+soccer;ka-du-re-gel;כדורגל
+basketball;ka-dur-sal;כדורסל
+hat;ko-va;כובע
+star;ko-khav;כוכב
+glass, cup;kos;כוס
+angry;ko-es;כועס
+blue;ka-khol;כחול
+chair;ki-se;כיסא
+classroom;ki-ta;כיתה
+all;kol;כל
+dog;ke-lev;כלב
+nothing;klum;כלום
+how much;ka-ma (or ka-ma);כמה
+yes;ken;כן
+entrance;kni-sa;כניסה
+money;ke-sef;כסף
+ATM;kas-po-mat;כספומט
+spoon;kaf;כף
+hand;kaf yad;כף יד
+foot;kaf re-gel;כף רגל
+cabbage;kruv;כרוב
+pillow;ka-rit;כרית
+kosher;ka-sher;כשר
+address;ktov-et;כתובת
+orange (color);ka-tom;כתום
+to, for;le;ל...
+no;lo;לא
+slowly;le-at;לאט
+heart;lev;לב
+alone;le-vad;לבד
+white;la-van;לבן
+bless you (after s.o. sneezes);liv-ri-ut;לבריאות
+see you later;le-hit-ra-ot;להתראות
+Cheers!;le-kha-yim;לחיים!
+bread;le-khem;לחם
+lizard;le-ta-a;לטאה
+night;lai-la;לילה
+lemon;li-mon;לימון
+why;la-ma;למה
+down;le-ma-ta;למטה
+up;le-ma-la;למעלה
+before;lif-nei;לפני
+from;me;מ...
+very;me-od;מאוד
+late;me-u-khar;מאוחר
+pastry;ma-a-fe;מאפה
+bakery;ma-a-fi-ya;מאפייה
+test/exam;miv-khan;מבחן
+towel;ma-ge-vet;מגבת
+desert;mid-bar;מדבר
+country;me-di-na;מדינה
+scientist;mad-an;מדען
+printer;mad-pe-set;מדפסת
+sidewalk;mid-ra-kha;מדרכה
+what;ma;מה
+fast;ma-hir;מהיר
+engineer;me-han-des;מהנדס
+quickly;ma-her;מהר
+museum;mu-zei-on;מוזיאון
+music;mu-zi-ka;מוזיקה
+brain;mo-akh;מוח
+ready;mu-khan;מוכן
+taxi;mo-nit;מונית
+early;muk-dam;מוקדם
+teacher;mo-re, mo-ra;מורה
+weather;me-zeg a-vir;מזג אוויר
+air conditioner;maz-gan;מזגן
+fork;maz-leg;מזלג
+East;miz-rakh;מזרח
+notebook;makh-be-ret;מחברת
+tomorrow;ma-khar;מחר
+computer;makh-shev;מחשב
+kitchen;mit-bakh;מטבח
+fried;me-tu-gan;מטוגן
+airplane;ma-tos;מטוס
+meter;me-ter;מטר
+who;mi;מי
+bed;mi-ta;מיטה
+dictionary;mi-lon;מילון
+water;ma-yim;מים
+juice;mits;מיץ
+microwave;mik-ro-gal;מיקרוגל
+someone;mi-she-hu;מישהו
+car;me-kho-nit;מכונית
+ugly;me-kho-ar;מכוער
+pants;mikh-na-sa-yim;מכנסים
+shorts;mikh-na-sa-yim k-tsar-im;מכנסים קצרים
+full;ma-le;מלא
+exciting;mal-hiv;מלהיב
+hotel;ma-lon;מלון
+salt;me-lakh;מלח
+cucumber;me-la-fe-fon;מלפפון
+government;mem-sha-la;ממשלה
+mango;man-go;מנגו
+serving/portion;ma-na;מנה
+manager;me-na-hel;מנהל
+tunnel;min-ha-ra;מנהרה
+restaurant;mis-a-da;מסעדה
+number;mis-par;מספר
+smelly;mas-ri-akh;מסריח
+interesting;me-an-yen;מעניין
+West;ma-a-rav;מערב
+napkin;map-it;מפית
+key;maf-te-akh;מפתח
+excellent;me-tsu-yan;מצוין
+funny;mats-khik;מצחיק
+camera;mats-le-ma;מצלמה
+place;ma-kom;מקום
+refrigerator;me-ka-rer;מקרר
+soup;ma-rak;מרק
+something;ma-she-hu;משהו
+game;mis-khak;משחק
+police;mish-ta-ra;משטרה
+boring;me-sha-a-mem;משעמם
+family;mish-pa-kha;משפחה
+weight;mish-kal;משקל
+office;mis-rad;משרד
+sweet;ma-tok;מתוק
+when;ma-tai;מתי
+intelligent;na-von;נבון
+driver;na-hag;נהג
+river;na-har;נהר
+paper;ni-yar;נייר
+correct;na-khon;נכון
+low;na-mukh;נמוך
+airport;na-mal te-u-fa;נמל תעופה
+ant;ne-ma-la;נמלה
+shoes;na-a-la-yim;נעליים
+nectarine;nek-ta-ri-na;נקטרינה
+clean;na-ki;נקי
+married;na-su-i;נשוי
+weapon;ne-shek;נשק
+grandfather;sa-ba;סבא
+soap;sa-bon;סבון
+grandmother;sav-ta;סבתא
+purple;sa-gol;סגול
+closed;sa-gur;סגור
+sheet;sa-din;סדין
+sugar;su-kar;סוכר
+end;sof;סוף
+weekend;sof sha-vu-a;סוף שבוע
+supermarket;su-per-mar-ket;סופרמרקט
+student;stu-dent;סטודנט
+story;si-pur;סיפור
+knife;sa-kin;סכין
+salad;sa-lat;סלט
+excuse me;sli-kha;סליחה
+beet(root);se-lek;סלק
+sandals;san-da-lim;סנדלים
+sofa;sa-pa;ספה
+sport;sport;ספורט
+book;se-fer;ספר
+library;sif-ri-ya;ספרייה
+movie;se-ret;סרט
+Fall;stav;סתיו
+past;a-var;עבר
+Hebrew;iv-rit;עברית
+tomato;ag-va-ni-ya;עגבניה
+mold;o-vesh;עובש
+cake;u-ga;עוגה
+world;o-lam;עולם
+chicken;of;עוף
+pen;et;עט
+tired;a-yef;עייף
+eye;a-yin;עין
+city;ir;עיר
+newspaper;i-ton;עיתון
+spider;a-ka-vish;עכביש
+now;akh-shav;עכשיו
+on, about;al;על
+grapes;a-na-vim;ענבים
+poor;a-ni;עני
+cloud;a-nan;ענן
+pencil;i-pa-ron;עפרון
+tree, wood;ets;עץ
+stop;a-tsor;עצור
+lazy;ats-lan;עצלן
+bone;e-tsem;עצם
+evening;e-rev;ערב
+Arabic;a-ra-vit;ערבית
+channel (tv);a-ruts;ערוץ
+rich;a-shir;עשיר
+future;a-tid;עתיד
+mouth;pe;פה
+here;po;פה
+garbage can;pakh ash-pa;פח אשפה
+parsley;pet-ro-zil-ya;פטרוזיליה
+mushrooms;pit-ri-yot;פטריות
+smart;pi-ke-akh;פיקח
+pita;pi-ta;פיתה
+falafel;fa-la-fel;פלאפל
+pepper;pil-pel;פלפל
+face;pa-nim;פנים
+pasta;pas-ta;פסטה
+piano;psan-ter;פסנתר
+once;pa-am;פעם
+twice;pa-a-ma-yim;פעמים
+faculty;fa-kul-ta;פקולטה
+fruit;pri;פרי
+chapter;pe-rek;פרק
+simple;pa-shut;פשוט
+open;pa-tu-akh;פתוח
+color;tse-va;צבע
+I.D.F. (Israel Defense Forces);tsa-hal;צה"ל
+yellow;tsa-hov;צהוב
+noon;tso-ho-ra-yim;צהריים
+bird;tsi-por;ציפור
+plate;tsa-la-khat;צלחת
+North;tsa-fon;צפון
+team;kvu-tsa;קבוצה
+receipt;ka-ba-la;קבלה
+small;ka-tan;קטן
+quinoa;ki-no-a;קינואה
+Summer;ka-yits;קיץ
+wall;kir;קיר
+squash, zucchini;ki-shu;קישוא
+easy;kal;קל
+mall;kan-yon;קניון
+bowl;ke-a-ra;קערה
+coffee;ka-fe;קפה
+a little;k-tsat;קצת
+cold;kar;קר
+difficult;ka-she;קשה
+head;rosh;ראש
+first;ri-shon;ראשון
+rabbi;rav;רב
+quarter (of something);re-va;רבע
+leg;re-gel;רגל
+moment;re-ga;רגע
+sauce;ro-tev;רוטב
+noisy;ro-esh;רועש
+doctor/physician;ro-fe;רופא
+thin;ra-ze;רזה
+street;re-khov;רחוב
+wet;ra-tov;רטוב
+pomegranate;ri-mon;רימון
+soft;rakh;רך
+train;ra-ke-vet;רכבת
+bad;ra;רע
+hungry;ra-ev;רעב
+idea;ra-a-yon;רעיון
+floor;rits-pa;רצפה
+only;rak;רק
+question;she-e-la;שאלה
+week;sha-vu-a;שבוע
+Saturday;sha-bat;שבת
+again;shuv;שוב
+shawarma;sha-war-ma;שווארמה
+table;shul-khan;שולחן
+garlic;shum;שום
+hot chocolate;sho-ko kham;שוקו חם
+chocolate;sho-ko-lad;שוקולד
+plum;she-zif;שזיף
+black;sha-khor;שחור
+swimming;skhi-ya;שחייה
+rug;sha-ti-akh;שטיח
+shuttle taxi;shei-rut;שירות
+neighborhood;shkhu-na;שכונה
+of;shel;של
+hello;sha-lom;שלום
+third (of something);shlish;שליש
+whole;sha-lem;שלם
+there;sham;שם
+name;shem;שם
+surname;shem mish-pa-kha;שם משפחה
+first name;shem pra-ti;שם פרטי
+left (direction);smo-la;שמאלה
+sky;sha-ma-yim;שמיים
+oil;she-men;שמן
+fat;sha-men;שמן
+sun;she-mesh;שמש
+year;sha-na;שנה
+second (time);shni-ya;שניה
+teeth;shi-na-yim;שיניים
+schnitzel;shni-tsel;שניצל
+hour;sha-a;שעה
+clock;sha-on;שעון
+lesson;shi-ur;שיעור
+goal (soccer);sha-ar;שער
+hair;se-ar;שער
+language;sa-fa;שפה
+almond;sha-ked;שקד
+quiet;she-ket;שקט
+shekel;she-kel;שקל
+shakshuka;shak-shu-ka;שקשוקה
+toilet (bathroom);she-ru-tim;שרותים
+(a) drink;shti-ya;שתייה
+fig;te-e-na;תאנה
+date of birth;ta-a-rikh lei-da;תאריך לידה
+tea;te;תה
+thank you;to-da;תודה
+strawberry;tut;תות
+hobby;takh-biv;תחביב
+station, stop;ta-kha-na;תחנה
+baby;ti-nok;תינוק
+bag;tik;תיק
+picture;tmu-na;תמונה
+date (food);ta-mar;תמר
+traffic;tnu-a;תנועה
+oven;ta-nur;תנור
+orange (food);ta-puz;תפוז
+apple;ta-pu-akh;תפוח
+potato;ta-pu-akh a-da-ma;תפוח אדמה
+ceiling;tik-ra;תקרה
+spinach;te-red;תרד
+answer;tshu-va;תשובה
