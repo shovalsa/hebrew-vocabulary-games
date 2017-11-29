@@ -1,0 +1,3579 @@
+{
+    "most common 500 words":{
+      "0":{
+          "english": "dad",
+          "transliteration": "<u>a</u>-ba",
+          "hebrew": "אבא"
+        },
+      "1":{
+          "english": "watermelon",
+          "transliteration": "a-va-<u>ti</u>-akh",
+          "hebrew": "אבטיח"
+        },
+      "2":{
+          "english": "Spring",
+          "transliteration": "a-viv",
+          "hebrew": "אביב"
+        },
+      "3":{
+          "english": "but",
+          "transliteration": "a-val",
+          "hebrew": "אבל"
+        },
+      "4":{
+          "english": "thumb",
+          "transliteration": "a-gu-dal",
+          "hebrew": "אגודל"
+        },
+      "5":{
+          "english": "walnut",
+          "transliteration": "e-goz <u>me</u>-lekh",
+          "hebrew": "אגוז מלך"
+        },
+      "6":{
+          "english": "pear",
+          "transliteration": "a-gas",
+          "hebrew": "אגס"
+        },
+      "7":{
+          "english": "red",
+          "transliteration": "a-dom",
+          "hebrew": "אדום"
+        },
+      "8":{
+          "english": "or",
+          "transliteration": "o",
+          "hebrew": "או"
+        },
+      "9":{
+          "english": "ear",
+          "transliteration": "<u>o</u>-zen",
+          "hebrew": "אוזן"
+        },
+      "10":{
+          "english": "bus",
+          "transliteration": "<u>o</u>-to-bus",
+          "hebrew": "אוטובוס"
+        },
+      "11":{
+          "english": "food",
+          "transliteration": "<u>o</u>-khel",
+          "hebrew": "אוכל"
+        },
+      "12":{
+          "english": "maybe",
+          "transliteration": "u-lai",
+          "hebrew": "אולי"
+        },
+      "13":{
+          "english": "university",
+          "transliteration": "u-ni-<u>ver</u>-si-ta",
+          "hebrew": "אוניברסיטה"
+        },
+      "14":{
+          "english": "bicycle",
+          "transliteration": "o-fa-<u>na</u>-yim",
+          "hebrew": "אופניים"
+        },
+      "15":{
+          "english": "rice",
+          "transliteration": "<u>o</u>-rez",
+          "hebrew": "אורז"
+        },
+      "16":{
+          "english": "so, then",
+          "transliteration": "az",
+          "hebrew": "אז"
+        },
+      "17":{
+          "english": "brother",
+          "transliteration": "akh",
+          "hebrew": "אח"
+        },
+      "18":{
+          "english": "sister",
+          "transliteration": "a-khot",
+          "hebrew": "אחות"
+        },
+      "19":{
+          "english": "last, final",
+          "transliteration": "a-kha-ron",
+          "hebrew": "אחרון"
+        },
+      "20":{
+          "english": "which",
+          "transliteration": "<u>ei</u>-ze",
+          "hebrew": "איזה"
+        },
+      "21":{
+          "english": "slow",
+          "transliteration": "i-ti",
+          "hebrew": "איטי"
+        },
+      "22":{
+          "english": "how",
+          "transliteration": "eikh",
+          "hebrew": "איך"
+        },
+      "23":{
+          "english": "mom",
+          "transliteration": "<u>i</u>-ma",
+          "hebrew": "אימא"
+        },
+      "24":{
+          "english": "there isn’t/aren’t",
+          "transliteration": "ein",
+          "hebrew": "אין"
+        },
+      "25":{
+          "english": "where",
+          "transliteration": "<u>ei</u>-fo",
+          "hebrew": "איפה"
+        },
+      "26":{
+          "english": "wife",
+          "transliteration": "i-sha",
+          "hebrew": "אישה"
+        },
+      "27":{
+          "english": "if",
+          "transliteration": "im",
+          "hebrew": "אם"
+        },
+      "28":{
+          "english": "English",
+          "transliteration": "an-glit",
+          "hebrew": "אנגלית"
+        },
+      "29":{
+          "english": "we",
+          "transliteration": "a-<u>nakh</u>-nu",
+          "hebrew": "אנחנו"
+        },
+      "30":{
+          "english": "I",
+          "transliteration": "a-ni",
+          "hebrew": "אני"
+        },
+      "31":{
+          "english": "pineapple",
+          "transliteration": "<u>a</u>-na-nas",
+          "hebrew": "אננס"
+        },
+      "32":{
+          "english": "forbidden",
+          "transliteration": "a-sur",
+          "hebrew": "אסור"
+        },
+      "33":{
+          "english": "nose",
+          "transliteration": "af",
+          "hebrew": "אף"
+        },
+      "34":{
+          "english": "peach",
+          "transliteration": "a-far-sek",
+          "hebrew": "אפרסק"
+        },
+      "35":{
+          "english": "(it is) possible",
+          "transliteration": "ef-shar",
+          "hebrew": "אפשר"
+        },
+      "36":{
+          "english": "finger, toe",
+          "transliteration": "<u>ets</u>-ba",
+          "hebrew": "אצבע"
+        },
+      "37":{
+          "english": "breakfast",
+          "transliteration": "a-ru-khat <u>bo</u>-ker",
+          "hebrew": "ארוחת בוקר"
+        },
+      "38":{
+          "english": "dinner",
+          "transliteration": "a-ru-khat <u>e</u>-rev",
+          "hebrew": "ארוחת ערב"
+        },
+      "39":{
+          "english": "lunch",
+          "transliteration": "a-ru-khat tso-ho-<u>ra</u>-yim",
+          "hebrew": "ארוחת צהריים"
+        },
+      "40":{
+          "english": "wallet",
+          "transliteration": "ar-nak",
+          "hebrew": "ארנק"
+        },
+      "41":{
+          "english": "grapefruit",
+          "transliteration": "esh-ko-lit",
+          "hebrew": "אשכולית"
+        },
+      "42":{
+          "english": "you (f.)",
+          "transliteration": "at",
+          "hebrew": "את"
+        },
+      "43":{
+          "english": "you (m.)",
+          "transliteration": "a-ta",
+          "hebrew": "אתה"
+        },
+      "44":{
+          "english": "you (m.p.)",
+          "transliteration": "a-tem",
+          "hebrew": "אתם"
+        },
+      "45":{
+          "english": "yesterday",
+          "transliteration": "et-mol",
+          "hebrew": "אתמול"
+        },
+      "46":{
+          "english": "you (f.p.)",
+          "transliteration": "a-ten",
+          "hebrew": "אתן"
+        },
+      "47":{
+          "english": "in, at",
+          "transliteration": "be, ba",
+          "hebrew": "ב..."
+        },
+      "48":{
+          "english": "please",
+          "transliteration": "be-va-ka-sha",
+          "hebrew": "בבקשה"
+        },
+      "49":{
+          "english": "clothes",
+          "transliteration": "be-ga-dim",
+          "hebrew": "בגדים"
+        },
+      "50":{
+          "english": "good luck",
+          "transliteration": "be-hats-la-kha",
+          "hebrew": "בהצלחה"
+        },
+      "51":{
+          "english": "morning",
+          "transliteration": "<u>bo</u>-ker",
+          "hebrew": "בוקר"
+        },
+      "52":{
+          "english": "outside",
+          "transliteration": "ba-khuts",
+          "hebrew": "בחוץ"
+        },
+      "53":{
+          "english": "sweet potato",
+          "transliteration": "ba-<u>ta</u>-ta",
+          "hebrew": "בטטה"
+        },
+      "54":{
+          "english": "stomach/abdomen/tummy",
+          "transliteration": "<u>be</u>-ten",
+          "hebrew": "בטן"
+        },
+      "55":{
+          "english": "together",
+          "transliteration": "be-<u>ya</u>-khad",
+          "hebrew": "ביחד"
+        },
+      "56":{
+          "english": "medium",
+          "transliteration": "bei-no-ni",
+          "hebrew": "בינוני"
+        },
+      "57":{
+          "english": "egg",
+          "transliteration": "bei-tsa",
+          "hebrew": "ביצה"
+        },
+      "58":{
+          "english": "beer",
+          "transliteration": "<u>bi</u>-ra",
+          "hebrew": "בירה"
+        },
+      "59":{
+          "english": "house",
+          "transliteration": "<u>ba</u>-yit",
+          "hebrew": "בית"
+        },
+      "60":{
+          "english": "hospital",
+          "transliteration": "beit kho-lim",
+          "hebrew": "בית חולים"
+        },
+      "61":{
+          "english": "synagogue",
+          "transliteration": "beit <u>kne</u>-set",
+          "hebrew": "בית כנסת"
+        },
+      "62":{
+          "english": "pharmacy",
+          "transliteration": "beit mir-<u>ka</u>-khat",
+          "hebrew": "בית מרקחת"
+        },
+      "63":{
+          "english": "school",
+          "transliteration": "beit <u>se</u>-fer",
+          "hebrew": "בית ספר"
+        },
+      "64":{
+          "english": "without",
+          "transliteration": "bli",
+          "hebrew": "בלי"
+        },
+      "65":{
+          "english": "son",
+          "transliteration": "ben",
+          "hebrew": "בן"
+        },
+      "66":{
+          "english": "cousin",
+          "transliteration": "ben dod",
+          "hebrew": "בן דוד"
+        },
+      "67":{
+          "english": "gasoline",
+          "transliteration": "ben-zin",
+          "hebrew": "בנזין"
+        },
+      "68":{
+          "english": "building",
+          "transliteration": "bin-yan",
+          "hebrew": "בניין"
+        },
+      "69":{
+          "english": "banana",
+          "transliteration": "ba-<u>na</u>-na",
+          "hebrew": "בננה"
+        },
+      "70":{
+          "english": "bank",
+          "transliteration": "bank",
+          "hebrew": "בנק"
+        },
+      "71":{
+          "english": "okay",
+          "transliteration": "be-se-der",
+          "hebrew": "בסדר"
+        },
+      "72":{
+          "english": "husband",
+          "transliteration": "<u>ba</u>-al",
+          "hebrew": "בעל"
+        },
+      "73":{
+          "english": "inside",
+          "transliteration": "bif-nim",
+          "hebrew": "בפנים"
+        },
+      "74":{
+          "english": "onion",
+          "transliteration": "ba-tsal",
+          "hebrew": "בצל"
+        },
+      "75":{
+          "english": "bottle",
+          "transliteration": "bak-buk",
+          "hebrew": "בקבוק"
+        },
+      "76":{
+          "english": "beef",
+          "transliteration": "ba-kar",
+          "hebrew": "בקר"
+        },
+      "77":{
+          "english": "soon",
+          "transliteration": "be-ka-rov",
+          "hebrew": "בקרוב"
+        },
+      "78":{
+          "english": "healthy",
+          "transliteration": "ba-ri",
+          "hebrew": "בריא"
+        },
+      "79":{
+          "english": "meat",
+          "transliteration": "ba-sar",
+          "hebrew": "בשר"
+        },
+      "80":{
+          "english": "daughter",
+          "transliteration": "bat",
+          "hebrew": "בת"
+        },
+      "81":{
+          "english": "cockroach",
+          "transliteration": "juk",
+          "hebrew": "ג'וק"
+        },
+      "82":{
+          "english": "back",
+          "transliteration": "gav",
+          "hebrew": "גב"
+        },
+      "83":{
+          "english": "high",
+          "transliteration": "ga-<u>vo</u>-ha",
+          "hebrew": "גבוה"
+        },
+      "84":{
+          "english": "cheese",
+          "transliteration": "gvi-na",
+          "hebrew": "גבינה"
+        },
+      "85":{
+          "english": "big",
+          "transliteration": "ga-dol",
+          "hebrew": "גדול"
+        },
+      "86":{
+          "english": "height",
+          "transliteration": "<u>go</u>-va",
+          "hebrew": "גובה"
+        },
+      "87":{
+          "english": "body",
+          "transliteration": "guf",
+          "hebrew": "גוף"
+        },
+      "88":{
+          "english": "carrot",
+          "transliteration": "<u>ge</u>-zer",
+          "hebrew": "גזר"
+        },
+      "89":{
+          "english": "ice cream",
+          "transliteration": "<u>gli</u>-da",
+          "hebrew": "גלידה"
+        },
+      "90":{
+          "english": "also",
+          "transliteration": "gam",
+          "hebrew": "גם"
+        },
+      "91":{
+          "english": "socks",
+          "transliteration": "gar-<u>ba</u>-yim",
+          "hebrew": "גרביים"
+        },
+      "92":{
+          "english": "rain",
+          "transliteration": "<u>ge</u>-shem",
+          "hebrew": "גשם"
+        },
+      "93":{
+          "english": "honey",
+          "transliteration": "dvash",
+          "hebrew": "דבש"
+        },
+      "94":{
+          "english": "fish",
+          "transliteration": "dag",
+          "hebrew": "דג"
+        },
+      "95":{
+          "english": "mail; post office",
+          "transliteration": "<u>do</u>-ar",
+          "hebrew": "דואר"
+        },
+      "96":{
+          "english": "cherry",
+          "transliteration": "duv-de-van",
+          "hebrew": "דובדבן"
+        },
+      "97":{
+          "english": "uncle",
+          "transliteration": "dod",
+          "hebrew": "דוד"
+        },
+      "98":{
+          "english": "aunt",
+          "transliteration": "<u>do</u>-da",
+          "hebrew": "דודה"
+        },
+      "99":{
+          "english": "apartment",
+          "transliteration": "di-ra",
+          "hebrew": "דירה"
+        },
+      "100":{
+          "english": "door",
+          "transliteration": "<u>de</u>-let",
+          "hebrew": "דלת"
+        },
+      "101":{
+          "english": "minute",
+          "transliteration": "da-ka",
+          "hebrew": "דקה"
+        },
+      "102":{
+          "english": "South",
+          "transliteration": "da-rom",
+          "hebrew": "דרום"
+        },
+      "103":{
+          "english": "passport",
+          "transliteration": "dar-kon",
+          "hebrew": "דרכון"
+        },
+      "104":{
+          "english": "religious",
+          "transliteration": "da-ti",
+          "hebrew": "דתי"
+        },
+      "105":{
+          "english": "the",
+          "transliteration": "ha",
+          "hebrew": "ה..."
+        },
+      "106":{
+          "english": "next",
+          "transliteration": "ha-ba",
+          "hebrew": "הבא"
+        },
+      "107":{
+          "english": "he",
+          "transliteration": "hu",
+          "hebrew": "הוא"
+        },
+      "108":{
+          "english": "turkey",
+          "transliteration": "<u>ho</u>-du",
+          "hebrew": "הודו"
+        },
+      "109":{
+          "english": "present (tense)",
+          "transliteration": "ho-ve",
+          "hebrew": "הווה"
+        },
+      "110":{
+          "english": "parents",
+          "transliteration": "ho-rim",
+          "hebrew": "הורים"
+        },
+      "111":{
+          "english": "she",
+          "transliteration": "hi",
+          "hebrew": "היא"
+        },
+      "112":{
+          "english": "today",
+          "transliteration": "ha-yom",
+          "hebrew": "היום"
+        },
+      "113":{
+          "english": "they (m.)",
+          "transliteration": "hem",
+          "hebrew": "הם"
+        },
+      "114":{
+          "english": "they (f.)",
+          "transliteration": "hen",
+          "hebrew": "הן"
+        },
+      "115":{
+          "english": "break",
+          "transliteration": "haf-sa-ka",
+          "hebrew": "הפסקה"
+        },
+      "116":{
+          "english": "a lot",
+          "transliteration": "har-be",
+          "hebrew": "הרבה"
+        },
+      "117":{
+          "english": "exercise",
+          "transliteration": "hit-am-lut",
+          "hebrew": "התעמלות"
+        },
+      "118":{
+          "english": "and",
+          "transliteration": "ve",
+          "hebrew": "ו..."
+        },
+      "119":{
+          "english": "this",
+          "transliteration": "ze",
+          "hebrew": "זה"
+        },
+      "120":{
+          "english": "cheap",
+          "transliteration": "zol",
+          "hebrew": "זול"
+        },
+      "121":{
+          "english": "olive",
+          "transliteration": "<u>za</u>-yit",
+          "hebrew": "זית"
+        },
+      "122":{
+          "english": "time",
+          "transliteration": "zman",
+          "hebrew": "זמן"
+        },
+      "123":{
+          "english": "old (person)",
+          "transliteration": "za-ken",
+          "hebrew": "זקן"
+        },
+      "124":{
+          "english": "friend",
+          "transliteration": "kha-ver",
+          "hebrew": "חבר"
+        },
+      "125":{
+          "english": "company",
+          "transliteration": "khev-ra",
+          "hebrew": "חברה"
+        },
+      "126":{
+          "english": "holiday",
+          "transliteration": "khag",
+          "hebrew": "חג"
+        },
+      "127":{
+          "english": "belt",
+          "transliteration": "kha-go-ra",
+          "hebrew": "חגורה"
+        },
+      "128":{
+          "english": "room",
+          "transliteration": "<u>khe</u>-der",
+          "hebrew": "חדר"
+        },
+      "129":{
+          "english": "new",
+          "transliteration": "kha-dash",
+          "hebrew": "חדש"
+        },
+      "130":{
+          "english": "news",
+          "transliteration": "kha-da-shot",
+          "hebrew": "חדשות"
+        },
+      "131":{
+          "english": "month",
+          "transliteration": "<u>kho</u>-desh",
+          "hebrew": "חודש"
+        },
+      "132":{
+          "english": "sick",
+          "transliteration": "kho-le",
+          "hebrew": "חולה"
+        },
+      "133":{
+          "english": "shirt",
+          "transliteration": "khul-tsa",
+          "hebrew": "חולצה"
+        },
+      "134":{
+          "english": "brown",
+          "transliteration": "khum",
+          "hebrew": "חום"
+        },
+      "135":{
+          "english": "hummus",
+          "transliteration": "<u>khu</u>-mus",
+          "hebrew": "חומוס"
+        },
+      "136":{
+          "english": "beach",
+          "transliteration": "khof",
+          "hebrew": "חוף"
+        },
+      "137":{
+          "english": "vacation",
+          "transliteration": "khuf-sha",
+          "hebrew": "חופשה"
+        },
+      "138":{
+          "english": "Winter",
+          "transliteration": "<u>kho</u>-ref",
+          "hebrew": "חורף"
+        },
+      "139":{
+          "english": "chest",
+          "transliteration": "kha-ze",
+          "hebrew": "חזה"
+        },
+      "140":{
+          "english": "strong",
+          "transliteration": "kha-zak",
+          "hebrew": "חזק"
+        },
+      "141":{
+          "english": "milk",
+          "transliteration": "kha-lav",
+          "hebrew": "חלב"
+        },
+      "142":{
+          "english": "challah",
+          "transliteration": "kha-la",
+          "hebrew": "חלה"
+        },
+      "143":{
+          "english": "window",
+          "transliteration": "kha-lon",
+          "hebrew": "חלון"
+        },
+      "144":{
+          "english": "secular",
+          "transliteration": "khi-lo-ni",
+          "hebrew": "חלוני"
+        },
+      "145":{
+          "english": "hot",
+          "transliteration": "kham",
+          "hebrew": "חם"
+        },
+      "146":{
+          "english": "butter",
+          "transliteration": "khem-a",
+          "hebrew": "חמאה"
+        },
+      "147":{
+          "english": "pickles",
+          "transliteration": "kha-mu-tsim",
+          "hebrew": "חמוצים"
+        },
+      "148":{
+          "english": "store",
+          "transliteration": "kha-nut",
+          "hebrew": "חנות"
+        },
+      "149":{
+          "english": "lettuce",
+          "transliteration": "<u>kha</u>-sa",
+          "hebrew": "חסה"
+        },
+      "150":{
+          "english": "skirt",
+          "transliteration": "kha-tsa-it",
+          "hebrew": "חצאית"
+        },
+      "151":{
+          "english": "half (of something)",
+          "transliteration": "<u>khe</u>-tsi",
+          "hebrew": "חצי"
+        },
+      "152":{
+          "english": "spicy (hot)",
+          "transliteration": "kha-rif",
+          "hebrew": "חריף"
+        },
+      "153":{
+          "english": "bill, check",
+          "transliteration": "khesh-bon",
+          "hebrew": "חשבון"
+        },
+      "154":{
+          "english": "important",
+          "transliteration": "kha-shuv",
+          "hebrew": "חשוב"
+        },
+      "155":{
+          "english": "cat",
+          "transliteration": "kha-tul",
+          "hebrew": "חתול"
+        },
+      "156":{
+          "english": "good",
+          "transliteration": "tov",
+          "hebrew": "טוב"
+        },
+      "157":{
+          "english": "trip, hike",
+          "transliteration": "ti-yul",
+          "hebrew": "טיול"
+        },
+      "158":{
+          "english": "lamb",
+          "transliteration": "ta-le",
+          "hebrew": "טלה"
+        },
+      "159":{
+          "english": "tv",
+          "transliteration": "te-le-<u>viz</u>-ya",
+          "hebrew": "טלוויזיה"
+        },
+      "160":{
+          "english": "telephone",
+          "transliteration": "<u>te</u>-le-fon",
+          "hebrew": "טלפון"
+        },
+      "161":{
+          "english": "tasty",
+          "transliteration": "ta-im",
+          "hebrew": "טעים"
+        },
+      "162":{
+          "english": "get going",
+          "transliteration": "<u>ya</u>-la",
+          "hebrew": "יאללה"
+        },
+      "163":{
+          "english": "arm",
+          "transliteration": "yad",
+          "hebrew": "יד"
+        },
+      "164":{
+          "english": "Jewish",
+          "transliteration": "ye-hu-di",
+          "hebrew": "יהודי"
+        },
+      "165":{
+          "english": "yogurt",
+          "transliteration": "<u>yo</u>-gurt",
+          "hebrew": "יוגורט"
+        },
+      "166":{
+          "english": "day",
+          "transliteration": "yom",
+          "hebrew": "יום"
+        },
+      "167":{
+          "english": "Thursday",
+          "transliteration": "yom kha-mi-shi",
+          "hebrew": "יום חמישי"
+        },
+      "168":{
+          "english": "Sunday",
+          "transliteration": "yom ri-shon",
+          "hebrew": "יום ראשון"
+        },
+      "169":{
+          "english": "Wednesday",
+          "transliteration": "yom re-vi-i",
+          "hebrew": "יום רביעי"
+        },
+      "170":{
+          "english": "Tuesday",
+          "transliteration": "yom shli-shi",
+          "hebrew": "יום שלישי"
+        },
+      "171":{
+          "english": "Monday",
+          "transliteration": "yom she-ni",
+          "hebrew": "יום שני"
+        },
+      "172":{
+          "english": "Friday",
+          "transliteration": "yom shi-shi",
+          "hebrew": "יום שישי"
+        },
+      "173":{
+          "english": "singular; single  (not married)",
+          "transliteration": "ya-khid",
+          "hebrew": "יחיד"
+        },
+      "174":{
+          "english": "wine",
+          "transliteration": "<u>ya</u>-yin",
+          "hebrew": "יין"
+        },
+      "175":{
+          "english": "boy",
+          "transliteration": "<u>ye</u>-led",
+          "hebrew": "ילד"
+        },
+      "176":{
+          "english": "girl",
+          "transliteration": "yal-da",
+          "hebrew": "ילדה"
+        },
+      "177":{
+          "english": "sea",
+          "transliteration": "yam",
+          "hebrew": "ים"
+        },
+      "178":{
+          "english": "right (direction)",
+          "transliteration": "ya-<u>mi</u>-na",
+          "hebrew": "ימינה"
+        },
+      "179":{
+          "english": "beautiful",
+          "transliteration": "ya-fe",
+          "hebrew": "יפה"
+        },
+      "180":{
+          "english": "exit",
+          "transliteration": "ye-tsi-a",
+          "hebrew": "יציאה"
+        },
+      "181":{
+          "english": "expensive",
+          "transliteration": "ya-kar",
+          "hebrew": "יקר"
+        },
+      "182":{
+          "english": "green",
+          "transliteration": "ya-rok",
+          "hebrew": "ירוק"
+        },
+      "183":{
+          "english": "moon",
+          "transliteration": "ya-<u>re</u>-akh",
+          "hebrew": "ירח"
+        },
+      "184":{
+          "english": "vegetables",
+          "transliteration": "ye-ra-kot",
+          "hebrew": "ירקות"
+        },
+      "185":{
+          "english": "there is/are",
+          "transliteration": "yesh",
+          "hebrew": "יש"
+        },
+      "186":{
+          "english": "old (thing)",
+          "transliteration": "ya-shan",
+          "hebrew": "ישן"
+        },
+      "187":{
+          "english": "straight ahead; honest",
+          "transliteration": "ya-shar",
+          "hebrew": "ישר"
+        },
+      "188":{
+          "english": "Israel",
+          "transliteration": "is-ra-el",
+          "hebrew": "ישראל"
+        },
+      "189":{
+          "english": "mosquito",
+          "transliteration": "ya-tush",
+          "hebrew": "יתוש"
+        },
+      "190":{
+          "english": "as",
+          "transliteration": "ke",
+          "hebrew": "כ..."
+        },
+      "191":{
+          "english": "pain/ache",
+          "transliteration": "ke-ev",
+          "hebrew": "כאב"
+        },
+      "192":{
+          "english": "road, route",
+          "transliteration": "kvish",
+          "hebrew": "כביש"
+        },
+      "193":{
+          "english": "ball",
+          "transliteration": "ka-dur",
+          "hebrew": "כדור"
+        },
+      "194":{
+          "english": "soccer",
+          "transliteration": "ka-du-<u>re</u>-gel",
+          "hebrew": "כדורגל"
+        },
+      "195":{
+          "english": "basketball",
+          "transliteration": "ka-dur-sal",
+          "hebrew": "כדורסל"
+        },
+      "196":{
+          "english": "hat",
+          "transliteration": "<u>ko</u>-va",
+          "hebrew": "כובע"
+        },
+      "197":{
+          "english": "star",
+          "transliteration": "ko-khav",
+          "hebrew": "כוכב"
+        },
+      "198":{
+          "english": "glass, cup",
+          "transliteration": "kos",
+          "hebrew": "כוס"
+        },
+      "199":{
+          "english": "angry",
+          "transliteration": "ko-es",
+          "hebrew": "כועס"
+        },
+      "200":{
+          "english": "blue",
+          "transliteration": "ka-khol",
+          "hebrew": "כחול"
+        },
+      "201":{
+          "english": "chair",
+          "transliteration": "ki-se",
+          "hebrew": "כיסא"
+        },
+      "202":{
+          "english": "classroom",
+          "transliteration": "ki-ta",
+          "hebrew": "כיתה"
+        },
+      "203":{
+          "english": "all",
+          "transliteration": "kol",
+          "hebrew": "כל"
+        },
+      "204":{
+          "english": "dog",
+          "transliteration": "<u>ke</u>-lev",
+          "hebrew": "כלב"
+        },
+      "205":{
+          "english": "nothing",
+          "transliteration": "klum",
+          "hebrew": "כלום"
+        },
+      "206":{
+          "english": "how much",
+          "transliteration": "<u>ka</u>-ma (or ka-ma)",
+          "hebrew": "כמה"
+        },
+      "207":{
+          "english": "yes",
+          "transliteration": "ken",
+          "hebrew": "כן"
+        },
+      "208":{
+          "english": "entrance",
+          "transliteration": "kni-sa",
+          "hebrew": "כניסה"
+        },
+      "209":{
+          "english": "money",
+          "transliteration": "<u>ke</u>-sef",
+          "hebrew": "כסף"
+        },
+      "210":{
+          "english": "ATM",
+          "transliteration": "kas-po-mat",
+          "hebrew": "כספומט"
+        },
+      "211":{
+          "english": "spoon",
+          "transliteration": "kaf",
+          "hebrew": "כף"
+        },
+      "212":{
+          "english": "hand",
+          "transliteration": "kaf yad",
+          "hebrew": "כף יד"
+        },
+      "213":{
+          "english": "foot",
+          "transliteration": "kaf <u>re</u>-gel",
+          "hebrew": "כף רגל"
+        },
+      "214":{
+          "english": "cabbage",
+          "transliteration": "kruv",
+          "hebrew": "כרוב"
+        },
+      "215":{
+          "english": "pillow",
+          "transliteration": "ka-rit",
+          "hebrew": "כרית"
+        },
+      "216":{
+          "english": "kosher",
+          "transliteration": "ka-sher",
+          "hebrew": "כשר"
+        },
+      "217":{
+          "english": "address",
+          "transliteration": "<u>ktov</u>-et",
+          "hebrew": "כתובת"
+        },
+      "218":{
+          "english": "orange (color)",
+          "transliteration": "ka-tom",
+          "hebrew": "כתום"
+        },
+      "219":{
+          "english": "to, for",
+          "transliteration": "le",
+          "hebrew": "ל..."
+        },
+      "220":{
+          "english": "no",
+          "transliteration": "lo",
+          "hebrew": "לא"
+        },
+      "221":{
+          "english": "slowly",
+          "transliteration": "le-at",
+          "hebrew": "לאט"
+        },
+      "222":{
+          "english": "heart",
+          "transliteration": "lev",
+          "hebrew": "לב"
+        },
+      "223":{
+          "english": "alone",
+          "transliteration": "le-vad",
+          "hebrew": "לבד"
+        },
+      "224":{
+          "english": "white",
+          "transliteration": "la-van",
+          "hebrew": "לבן"
+        },
+      "225":{
+          "english": "bless you (after s.o. sneezes)",
+          "transliteration": "liv-ri-ut",
+          "hebrew": "לבריאות"
+        },
+      "226":{
+          "english": "see you later",
+          "transliteration": "le-hit-ra-ot",
+          "hebrew": "להתראות"
+        },
+      "227":{
+          "english": "Cheers!",
+          "transliteration": "le-<u>kha</u>-yim",
+          "hebrew": "לחיים!"
+        },
+      "228":{
+          "english": "bread",
+          "transliteration": "<u>le</u>-khem",
+          "hebrew": "לחם"
+        },
+      "229":{
+          "english": "lizard",
+          "transliteration": "le-ta-a",
+          "hebrew": "לטאה"
+        },
+      "230":{
+          "english": "night",
+          "transliteration": "<u>lai</u>-la",
+          "hebrew": "לילה"
+        },
+      "231":{
+          "english": "lemon",
+          "transliteration": "li-mon",
+          "hebrew": "לימון"
+        },
+      "232":{
+          "english": "why",
+          "transliteration": "<u>la</u>-ma",
+          "hebrew": "למה"
+        },
+      "233":{
+          "english": "down",
+          "transliteration": "le-<u>ma</u>-ta",
+          "hebrew": "למטה"
+        },
+      "234":{
+          "english": "up",
+          "transliteration": "le-<u>ma</u>-la",
+          "hebrew": "למעלה"
+        },
+      "235":{
+          "english": "before",
+          "transliteration": "lif-nei",
+          "hebrew": "לפני"
+        },
+      "236":{
+          "english": "from",
+          "transliteration": "me",
+          "hebrew": "מ..."
+        },
+      "237":{
+          "english": "very",
+          "transliteration": "me-od",
+          "hebrew": "מאוד"
+        },
+      "238":{
+          "english": "late",
+          "transliteration": "me-u-khar",
+          "hebrew": "מאוחר"
+        },
+      "239":{
+          "english": "pastry",
+          "transliteration": "ma-a-fe",
+          "hebrew": "מאפה"
+        },
+      "240":{
+          "english": "bakery",
+          "transliteration": "ma-a-fi-ya",
+          "hebrew": "מאפייה"
+        },
+      "241":{
+          "english": "test/exam",
+          "transliteration": "miv-khan",
+          "hebrew": "מבחן"
+        },
+      "242":{
+          "english": "towel",
+          "transliteration": "ma-<u>ge</u>-vet",
+          "hebrew": "מגבת"
+        },
+      "243":{
+          "english": "desert",
+          "transliteration": "mid-bar",
+          "hebrew": "מדבר"
+        },
+      "244":{
+          "english": "country",
+          "transliteration": "me-di-na",
+          "hebrew": "מדינה"
+        },
+      "245":{
+          "english": "scientist",
+          "transliteration": "mad-an",
+          "hebrew": "מדען"
+        },
+      "246":{
+          "english": "printer",
+          "transliteration": "mad-<u>pe</u>-set",
+          "hebrew": "מדפסת"
+        },
+      "247":{
+          "english": "sidewalk",
+          "transliteration": "mid-ra-kha",
+          "hebrew": "מדרכה"
+        },
+      "248":{
+          "english": "what",
+          "transliteration": "ma",
+          "hebrew": "מה"
+        },
+      "249":{
+          "english": "fast",
+          "transliteration": "ma-hir",
+          "hebrew": "מהיר"
+        },
+      "250":{
+          "english": "engineer",
+          "transliteration": "me-han-des",
+          "hebrew": "מהנדס"
+        },
+      "251":{
+          "english": "quickly",
+          "transliteration": "ma-her",
+          "hebrew": "מהר"
+        },
+      "252":{
+          "english": "museum",
+          "transliteration": "mu-zei-on",
+          "hebrew": "מוזיאון"
+        },
+      "253":{
+          "english": "music",
+          "transliteration": "<u>mu</u>-zi-ka",
+          "hebrew": "מוזיקה"
+        },
+      "254":{
+          "english": "brain",
+          "transliteration": "<u>mo</u>-akh",
+          "hebrew": "מוח"
+        },
+      "255":{
+          "english": "ready",
+          "transliteration": "mu-khan",
+          "hebrew": "מוכן"
+        },
+      "256":{
+          "english": "taxi",
+          "transliteration": "mo-nit",
+          "hebrew": "מונית"
+        },
+      "257":{
+          "english": "early",
+          "transliteration": "muk-dam",
+          "hebrew": "מוקדם"
+        },
+      "258":{
+          "english": "teacher",
+          "transliteration": "mo-re, mo-ra",
+          "hebrew": "מורה"
+        },
+      "259":{
+          "english": "weather",
+          "transliteration": "<u>me</u>-zeg a-vir",
+          "hebrew": "מזג אוויר"
+        },
+      "260":{
+          "english": "air conditioner",
+          "transliteration": "maz-gan",
+          "hebrew": "מזגן"
+        },
+      "261":{
+          "english": "fork",
+          "transliteration": "maz-leg",
+          "hebrew": "מזלג"
+        },
+      "262":{
+          "english": "East",
+          "transliteration": "miz-rakh",
+          "hebrew": "מזרח"
+        },
+      "263":{
+          "english": "notebook",
+          "transliteration": "makh-<u>be</u>-ret",
+          "hebrew": "מחברת"
+        },
+      "264":{
+          "english": "tomorrow",
+          "transliteration": "ma-khar",
+          "hebrew": "מחר"
+        },
+      "265":{
+          "english": "computer",
+          "transliteration": "makh-shev",
+          "hebrew": "מחשב"
+        },
+      "266":{
+          "english": "kitchen",
+          "transliteration": "mit-bakh",
+          "hebrew": "מטבח"
+        },
+      "267":{
+          "english": "fried",
+          "transliteration": "me-tu-gan",
+          "hebrew": "מטוגן"
+        },
+      "268":{
+          "english": "airplane",
+          "transliteration": "ma-tos",
+          "hebrew": "מטוס"
+        },
+      "269":{
+          "english": "meter",
+          "transliteration": "<u>me</u>-ter",
+          "hebrew": "מטר"
+        },
+      "270":{
+          "english": "who",
+          "transliteration": "mi",
+          "hebrew": "מי"
+        },
+      "271":{
+          "english": "bed",
+          "transliteration": "mi-ta",
+          "hebrew": "מיטה"
+        },
+      "272":{
+          "english": "dictionary",
+          "transliteration": "mi-lon",
+          "hebrew": "מילון"
+        },
+      "273":{
+          "english": "water",
+          "transliteration": "<u>ma</u>-yim",
+          "hebrew": "מים"
+        },
+      "274":{
+          "english": "juice",
+          "transliteration": "mits",
+          "hebrew": "מיץ"
+        },
+      "275":{
+          "english": "microwave",
+          "transliteration": "<u>mik</u>-ro-gal",
+          "hebrew": "מיקרוגל"
+        },
+      "276":{
+          "english": "someone",
+          "transliteration": "<u>mi</u>-she-hu",
+          "hebrew": "מישהו"
+        },
+      "277":{
+          "english": "car",
+          "transliteration": "me-kho-nit",
+          "hebrew": "מכונית"
+        },
+      "278":{
+          "english": "ugly",
+          "transliteration": "me-kho-ar",
+          "hebrew": "מכוער"
+        },
+      "279":{
+          "english": "pants",
+          "transliteration": "mikh-na-<u>sa</u>-yim",
+          "hebrew": "מכנסים"
+        },
+      "280":{
+          "english": "shorts",
+          "transliteration": "mikh-na-<u>sa</u>-yim k-tsar-im",
+          "hebrew": "מכנסים קצרים"
+        },
+      "281":{
+          "english": "full",
+          "transliteration": "ma-le",
+          "hebrew": "מלא"
+        },
+      "282":{
+          "english": "exciting",
+          "transliteration": "mal-hiv",
+          "hebrew": "מלהיב"
+        },
+      "283":{
+          "english": "hotel",
+          "transliteration": "ma-lon",
+          "hebrew": "מלון"
+        },
+      "284":{
+          "english": "salt",
+          "transliteration": "<u>me</u>-lakh",
+          "hebrew": "מלח"
+        },
+      "285":{
+          "english": "cucumber",
+          "transliteration": "me-la-fe-fon",
+          "hebrew": "מלפפון"
+        },
+      "286":{
+          "english": "government",
+          "transliteration": "mem-sha-la",
+          "hebrew": "ממשלה"
+        },
+      "287":{
+          "english": "mango",
+          "transliteration": "<u>man</u>-go",
+          "hebrew": "מנגו"
+        },
+      "288":{
+          "english": "serving/portion",
+          "transliteration": "ma-na",
+          "hebrew": "מנה"
+        },
+      "289":{
+          "english": "manager",
+          "transliteration": "me-na-hel",
+          "hebrew": "מנהל"
+        },
+      "290":{
+          "english": "tunnel",
+          "transliteration": "min-ha-ra",
+          "hebrew": "מנהרה"
+        },
+      "291":{
+          "english": "restaurant",
+          "transliteration": "mis-a-da",
+          "hebrew": "מסעדה"
+        },
+      "292":{
+          "english": "number",
+          "transliteration": "mis-par",
+          "hebrew": "מספר"
+        },
+      "293":{
+          "english": "smelly",
+          "transliteration": "mas-<u>ri</u>-akh",
+          "hebrew": "מסריח"
+        },
+      "294":{
+          "english": "interesting",
+          "transliteration": "me-an-yen",
+          "hebrew": "מעניין"
+        },
+      "295":{
+          "english": "West",
+          "transliteration": "ma-a-rav",
+          "hebrew": "מערב"
+        },
+      "296":{
+          "english": "napkin",
+          "transliteration": "map-it",
+          "hebrew": "מפית"
+        },
+      "297":{
+          "english": "key",
+          "transliteration": "maf-<u>te</u>-akh",
+          "hebrew": "מפתח"
+        },
+      "298":{
+          "english": "excellent",
+          "transliteration": "me-tsu-yan",
+          "hebrew": "מצוין"
+        },
+      "299":{
+          "english": "funny",
+          "transliteration": "mats-khik",
+          "hebrew": "מצחיק"
+        },
+      "300":{
+          "english": "camera",
+          "transliteration": "mats-le-ma",
+          "hebrew": "מצלמה"
+        },
+      "301":{
+          "english": "place",
+          "transliteration": "ma-kom",
+          "hebrew": "מקום"
+        },
+      "302":{
+          "english": "refrigerator",
+          "transliteration": "me-ka-rer",
+          "hebrew": "מקרר"
+        },
+      "303":{
+          "english": "soup",
+          "transliteration": "ma-rak",
+          "hebrew": "מרק"
+        },
+      "304":{
+          "english": "something",
+          "transliteration": "<u>ma</u>-she-hu",
+          "hebrew": "משהו"
+        },
+      "305":{
+          "english": "game",
+          "transliteration": "mis-khak",
+          "hebrew": "משחק"
+        },
+      "306":{
+          "english": "police",
+          "transliteration": "mish-ta-ra",
+          "hebrew": "משטרה"
+        },
+      "307":{
+          "english": "boring",
+          "transliteration": "me-sha-a-mem",
+          "hebrew": "משעמם"
+        },
+      "308":{
+          "english": "family",
+          "transliteration": "mish-pa-kha",
+          "hebrew": "משפחה"
+        },
+      "309":{
+          "english": "weight",
+          "transliteration": "mish-kal",
+          "hebrew": "משקל"
+        },
+      "310":{
+          "english": "office",
+          "transliteration": "mis-rad",
+          "hebrew": "משרד"
+        },
+      "311":{
+          "english": "sweet",
+          "transliteration": "ma-tok",
+          "hebrew": "מתוק"
+        },
+      "312":{
+          "english": "when",
+          "transliteration": "ma-tai",
+          "hebrew": "מתי"
+        },
+      "313":{
+          "english": "intelligent",
+          "transliteration": "na-von",
+          "hebrew": "נבון"
+        },
+      "314":{
+          "english": "driver",
+          "transliteration": "na-hag",
+          "hebrew": "נהג"
+        },
+      "315":{
+          "english": "river",
+          "transliteration": "na-har",
+          "hebrew": "נהר"
+        },
+      "316":{
+          "english": "paper",
+          "transliteration": "ni-yar",
+          "hebrew": "נייר"
+        },
+      "317":{
+          "english": "correct",
+          "transliteration": "na-khon",
+          "hebrew": "נכון"
+        },
+      "318":{
+          "english": "low",
+          "transliteration": "na-mukh",
+          "hebrew": "נמוך"
+        },
+      "319":{
+          "english": "airport",
+          "transliteration": "na-mal te-u-fa",
+          "hebrew": "נמל תעופה"
+        },
+      "320":{
+          "english": "ant",
+          "transliteration": "ne-ma-la",
+          "hebrew": "נמלה"
+        },
+      "321":{
+          "english": "shoes",
+          "transliteration": "na-a-<u>la</u>-yim",
+          "hebrew": "נעליים"
+        },
+      "322":{
+          "english": "nectarine",
+          "transliteration": "nek-ta-<u>ri</u>-na",
+          "hebrew": "נקטרינה"
+        },
+      "323":{
+          "english": "clean",
+          "transliteration": "na-ki",
+          "hebrew": "נקי"
+        },
+      "324":{
+          "english": "married",
+          "transliteration": "na-<u>su</u>-i",
+          "hebrew": "נשוי"
+        },
+      "325":{
+          "english": "weapon",
+          "transliteration": "<u>ne</u>-shek",
+          "hebrew": "נשק"
+        },
+      "326":{
+          "english": "grandfather",
+          "transliteration": "<u>sa</u>-ba",
+          "hebrew": "סבא"
+        },
+      "327":{
+          "english": "soap",
+          "transliteration": "sa-bon",
+          "hebrew": "סבון"
+        },
+      "328":{
+          "english": "grandmother",
+          "transliteration": "<u>sa</u>v-ta",
+          "hebrew": "סבתא"
+        },
+      "329":{
+          "english": "purple",
+          "transliteration": "sa-gol",
+          "hebrew": "סגול"
+        },
+      "330":{
+          "english": "closed",
+          "transliteration": "sa-gur",
+          "hebrew": "סגור"
+        },
+      "331":{
+          "english": "sheet",
+          "transliteration": "sa-din",
+          "hebrew": "סדין"
+        },
+      "332":{
+          "english": "sugar",
+          "transliteration": "su-kar",
+          "hebrew": "סוכר"
+        },
+      "333":{
+          "english": "end",
+          "transliteration": "sof",
+          "hebrew": "סוף"
+        },
+      "334":{
+          "english": "weekend",
+          "transliteration": "sof sha-<u>vu</u>-a",
+          "hebrew": "סוף שבוע"
+        },
+      "335":{
+          "english": "supermarket",
+          "transliteration": "<u>su</u>-per-mar-ket",
+          "hebrew": "סופרמרקט"
+        },
+      "336":{
+          "english": "student",
+          "transliteration": "stu-dent",
+          "hebrew": "סטודנט"
+        },
+      "337":{
+          "english": "story",
+          "transliteration": "si-pur",
+          "hebrew": "סיפור"
+        },
+      "338":{
+          "english": "knife",
+          "transliteration": "sa-kin",
+          "hebrew": "סכין"
+        },
+      "339":{
+          "english": "salad",
+          "transliteration": "sa-lat",
+          "hebrew": "סלט"
+        },
+      "340":{
+          "english": "excuse me",
+          "transliteration": "sli-kha",
+          "hebrew": "סליחה"
+        },
+      "341":{
+          "english": "beet(root)",
+          "transliteration": "<u>se</u>-lek",
+          "hebrew": "סלק"
+        },
+      "342":{
+          "english": "sandals",
+          "transliteration": "san-da-lim",
+          "hebrew": "סנדלים"
+        },
+      "343":{
+          "english": "sofa",
+          "transliteration": "sa-pa",
+          "hebrew": "ספה"
+        },
+      "344":{
+          "english": "sport",
+          "transliteration": "sport",
+          "hebrew": "ספורט"
+        },
+      "345":{
+          "english": "book",
+          "transliteration": "<u>se</u>-fer",
+          "hebrew": "ספר"
+        },
+      "346":{
+          "english": "library",
+          "transliteration": "sif-ri-ya",
+          "hebrew": "ספרייה"
+        },
+      "347":{
+          "english": "movie",
+          "transliteration": "se-ret",
+          "hebrew": "סרט"
+        },
+      "348":{
+          "english": "Fall",
+          "transliteration": "stav",
+          "hebrew": "סתיו"
+        },
+      "349":{
+          "english": "past",
+          "transliteration": "a-var",
+          "hebrew": "עבר"
+        },
+      "350":{
+          "english": "Hebrew",
+          "transliteration": "iv-rit",
+          "hebrew": "עברית"
+        },
+      "351":{
+          "english": "tomato",
+          "transliteration": "ag-va-ni-ya",
+          "hebrew": "עגבניה"
+        },
+      "352":{
+          "english": "mold",
+          "transliteration": "<u>o</u>-vesh",
+          "hebrew": "עובש"
+        },
+      "353":{
+          "english": "cake",
+          "transliteration": "u-ga",
+          "hebrew": "עוגה"
+        },
+      "354":{
+          "english": "world",
+          "transliteration": "o-lam",
+          "hebrew": "עולם"
+        },
+      "355":{
+          "english": "chicken",
+          "transliteration": "of",
+          "hebrew": "עוף"
+        },
+      "356":{
+          "english": "pen",
+          "transliteration": "et",
+          "hebrew": "עט"
+        },
+      "357":{
+          "english": "tired",
+          "transliteration": "a-yef",
+          "hebrew": "עייף"
+        },
+      "358":{
+          "english": "eye",
+          "transliteration": "<u>a</u>-yin",
+          "hebrew": "עין"
+        },
+      "359":{
+          "english": "city",
+          "transliteration": "ir",
+          "hebrew": "עיר"
+        },
+      "360":{
+          "english": "newspaper",
+          "transliteration": "i-ton",
+          "hebrew": "עיתון"
+        },
+      "361":{
+          "english": "spider",
+          "transliteration": "a-ka-vish",
+          "hebrew": "עכביש"
+        },
+      "362":{
+          "english": "now",
+          "transliteration": "akh-shav",
+          "hebrew": "עכשיו"
+        },
+      "363":{
+          "english": "on, about",
+          "transliteration": "al",
+          "hebrew": "על"
+        },
+      "364":{
+          "english": "grapes",
+          "transliteration": "a-na-vim",
+          "hebrew": "ענבים"
+        },
+      "365":{
+          "english": "poor",
+          "transliteration": "a-ni",
+          "hebrew": "עני"
+        },
+      "366":{
+          "english": "cloud",
+          "transliteration": "a-nan",
+          "hebrew": "ענן"
+        },
+      "367":{
+          "english": "pencil",
+          "transliteration": "i-pa-ron",
+          "hebrew": "עפרון"
+        },
+      "368":{
+          "english": "tree, wood",
+          "transliteration": "ets",
+          "hebrew": "עץ"
+        },
+      "369":{
+          "english": "stop",
+          "transliteration": "a-tsor",
+          "hebrew": "עצור"
+        },
+      "370":{
+          "english": "lazy",
+          "transliteration": "ats-lan",
+          "hebrew": "עצלן"
+        },
+      "371":{
+          "english": "bone",
+          "transliteration": "<u>e</u>-tsem",
+          "hebrew": "עצם"
+        },
+      "372":{
+          "english": "evening",
+          "transliteration": "<u>e</u>-rev",
+          "hebrew": "ערב"
+        },
+      "373":{
+          "english": "Arabic",
+          "transliteration": "a-ra-vit",
+          "hebrew": "ערבית"
+        },
+      "374":{
+          "english": "channel (tv)",
+          "transliteration": "a-ruts",
+          "hebrew": "ערוץ"
+        },
+      "375":{
+          "english": "rich",
+          "transliteration": "a-shir",
+          "hebrew": "עשיר"
+        },
+      "376":{
+          "english": "future",
+          "transliteration": "a-tid",
+          "hebrew": "עתיד"
+        },
+      "377":{
+          "english": "mouth",
+          "transliteration": "pe",
+          "hebrew": "פה"
+        },
+      "378":{
+          "english": "here",
+          "transliteration": "po",
+          "hebrew": "פה"
+        },
+      "379":{
+          "english": "garbage can",
+          "transliteration": "pakh ash-pa",
+          "hebrew": "פח אשפה"
+        },
+      "380":{
+          "english": "parsley",
+          "transliteration": "pet-ro-<u>zil</u>-ya",
+          "hebrew": "פטרוזיליה"
+        },
+      "381":{
+          "english": "mushrooms",
+          "transliteration": "pit-ri-yot",
+          "hebrew": "פטריות"
+        },
+      "382":{
+          "english": "smart",
+          "transliteration": "pi-<u>ke</u>-akh",
+          "hebrew": "פיקח"
+        },
+      "383":{
+          "english": "pita",
+          "transliteration": "<u>pi</u>-ta",
+          "hebrew": "פיתה"
+        },
+      "384":{
+          "english": "falafel",
+          "transliteration": "fa-<u>la</u>-fel",
+          "hebrew": "פלאפל"
+        },
+      "385":{
+          "english": "pepper",
+          "transliteration": "<u>pil</u>-pel",
+          "hebrew": "פלפל"
+        },
+      "386":{
+          "english": "face",
+          "transliteration": "pa-nim",
+          "hebrew": "פנים"
+        },
+      "387":{
+          "english": "pasta",
+          "transliteration": "<u>pas</u>-ta",
+          "hebrew": "פסטה"
+        },
+      "388":{
+          "english": "piano",
+          "transliteration": "psan-ter",
+          "hebrew": "פסנתר"
+        },
+      "389":{
+          "english": "once",
+          "transliteration": "<u>pa</u>-am",
+          "hebrew": "פעם"
+        },
+      "390":{
+          "english": "twice",
+          "transliteration": "pa-a-<u>ma</u>-yim",
+          "hebrew": "פעמים"
+        },
+      "391":{
+          "english": "faculty",
+          "transliteration": "fa-<u>kul</u>-ta",
+          "hebrew": "פקולטה"
+        },
+      "392":{
+          "english": "fruit",
+          "transliteration": "pri",
+          "hebrew": "פרי"
+        },
+      "393":{
+          "english": "chapter",
+          "transliteration": "<u>pe</u>-rek",
+          "hebrew": "פרק"
+        },
+      "394":{
+          "english": "simple",
+          "transliteration": "pa-shut",
+          "hebrew": "פשוט"
+        },
+      "395":{
+          "english": "open",
+          "transliteration": "pa-<u>tu</u>-akh",
+          "hebrew": "פתוח"
+        },
+      "396":{
+          "english": "color",
+          "transliteration": "<u>tse</u>-va",
+          "hebrew": "צבע"
+        },
+      "397":{
+          "english": "yellow",
+          "transliteration": "tsa-hov",
+          "hebrew": "צהוב"
+        },
+      "398":{
+          "english": "noon",
+          "transliteration": "tso-ho-<u>ra</u>-yim",
+          "hebrew": "צהריים"
+        },
+      "399":{
+          "english": "bird",
+          "transliteration": "tsi-por",
+          "hebrew": "ציפור"
+        },
+      "400":{
+          "english": "plate",
+          "transliteration": "tsa-<u>la</u>-khat",
+          "hebrew": "צלחת"
+        },
+      "401":{
+          "english": "North",
+          "transliteration": "tsa-fon",
+          "hebrew": "צפון"
+        },
+      "402":{
+          "english": "team",
+          "transliteration": "kvu-tsa",
+          "hebrew": "קבוצה"
+        },
+      "403":{
+          "english": "receipt",
+          "transliteration": "ka-ba-la",
+          "hebrew": "קבלה"
+        },
+      "404":{
+          "english": "small",
+          "transliteration": "ka-tan",
+          "hebrew": "קטן"
+        },
+      "405":{
+          "english": "quinoa",
+          "transliteration": "ki-<u>no</u>-a",
+          "hebrew": "קינואה"
+        },
+      "406":{
+          "english": "Summer",
+          "transliteration": "<u>ka</u>-yits",
+          "hebrew": "קיץ"
+        },
+      "407":{
+          "english": "wall",
+          "transliteration": "kir",
+          "hebrew": "קיר"
+        },
+      "408":{
+          "english": "squash, zucchini",
+          "transliteration": "ki-shu",
+          "hebrew": "קישוא"
+        },
+      "409":{
+          "english": "easy",
+          "transliteration": "kal",
+          "hebrew": "קל"
+        },
+      "410":{
+          "english": "mall",
+          "transliteration": "kan-yon",
+          "hebrew": "קניון"
+        },
+      "411":{
+          "english": "bowl",
+          "transliteration": "ke-a-ra",
+          "hebrew": "קערה"
+        },
+      "412":{
+          "english": "coffee",
+          "transliteration": "ka-fe",
+          "hebrew": "קפה"
+        },
+      "413":{
+          "english": "a little",
+          "transliteration": "k-tsat",
+          "hebrew": "קצת"
+        },
+      "414":{
+          "english": "cold",
+          "transliteration": "kar",
+          "hebrew": "קר"
+        },
+      "415":{
+          "english": "difficult",
+          "transliteration": "ka-she",
+          "hebrew": "קשה"
+        },
+      "416":{
+          "english": "head",
+          "transliteration": "rosh",
+          "hebrew": "ראש"
+        },
+      "417":{
+          "english": "first",
+          "transliteration": "ri-shon",
+          "hebrew": "ראשון"
+        },
+      "418":{
+          "english": "rabbi",
+          "transliteration": "rav",
+          "hebrew": "רב"
+        },
+      "419":{
+          "english": "quarter (of something)",
+          "transliteration": "<u>re</u>-va",
+          "hebrew": "רבע"
+        },
+      "420":{
+          "english": "leg",
+          "transliteration": "<u>re</u>-gel",
+          "hebrew": "רגל"
+        },
+      "421":{
+          "english": "moment",
+          "transliteration": "<u>re</u>-ga",
+          "hebrew": "רגע"
+        },
+      "422":{
+          "english": "sauce",
+          "transliteration": "<u>ro</u>-tev",
+          "hebrew": "רוטב"
+        },
+      "423":{
+          "english": "noisy",
+          "transliteration": "ro-esh",
+          "hebrew": "רועש"
+        },
+      "424":{
+          "english": "doctor/physician",
+          "transliteration": "ro-fe",
+          "hebrew": "רופא"
+        },
+      "425":{
+          "english": "thin",
+          "transliteration": "ra-ze",
+          "hebrew": "רזה"
+        },
+      "426":{
+          "english": "street",
+          "transliteration": "re-khov",
+          "hebrew": "רחוב"
+        },
+      "427":{
+          "english": "wet",
+          "transliteration": "ra-tov",
+          "hebrew": "רטוב"
+        },
+      "428":{
+          "english": "pomegranate",
+          "transliteration": "ri-mon",
+          "hebrew": "רימון"
+        },
+      "429":{
+          "english": "soft",
+          "transliteration": "rakh",
+          "hebrew": "רך"
+        },
+      "430":{
+          "english": "train",
+          "transliteration": "ra-<u>ke</u>-vet",
+          "hebrew": "רכבת"
+        },
+      "431":{
+          "english": "bad",
+          "transliteration": "ra",
+          "hebrew": "רע"
+        },
+      "432":{
+          "english": "hungry",
+          "transliteration": "ra-ev",
+          "hebrew": "רעב"
+        },
+      "433":{
+          "english": "idea",
+          "transliteration": "ra-a-yon",
+          "hebrew": "רעיון"
+        },
+      "434":{
+          "english": "floor",
+          "transliteration": "rits-pa",
+          "hebrew": "רצפה"
+        },
+      "435":{
+          "english": "only",
+          "transliteration": "rak",
+          "hebrew": "רק"
+        },
+      "436":{
+          "english": "question",
+          "transliteration": "she-e-la",
+          "hebrew": "שאלה"
+        },
+      "437":{
+          "english": "week",
+          "transliteration": "sha-<u>vu</u>-a",
+          "hebrew": "שבוע"
+        },
+      "438":{
+          "english": "Saturday",
+          "transliteration": "sha-bat",
+          "hebrew": "שבת"
+        },
+      "439":{
+          "english": "again",
+          "transliteration": "shuv",
+          "hebrew": "שוב"
+        },
+      "440":{
+          "english": "shawarma",
+          "transliteration": "sha-<u>war</u>-ma",
+          "hebrew": "שווארמה"
+        },
+      "441":{
+          "english": "table",
+          "transliteration": "shul-khan",
+          "hebrew": "שולחן"
+        },
+      "442":{
+          "english": "garlic",
+          "transliteration": "shum",
+          "hebrew": "שום"
+        },
+      "443":{
+          "english": "hot chocolate",
+          "transliteration": "<u>sho</u>-ko kham",
+          "hebrew": "שוקו חם"
+        },
+      "444":{
+          "english": "chocolate",
+          "transliteration": "<u>sho</u>-ko-lad",
+          "hebrew": "שוקולד"
+        },
+      "445":{
+          "english": "plum",
+          "transliteration": "she-zif",
+          "hebrew": "שזיף"
+        },
+      "446":{
+          "english": "black",
+          "transliteration": "sha-khor",
+          "hebrew": "שחור"
+        },
+      "447":{
+          "english": "swimming",
+          "transliteration": "skhi-ya",
+          "hebrew": "שחייה"
+        },
+      "448":{
+          "english": "rug",
+          "transliteration": "sha-<u>ti</u>-akh",
+          "hebrew": "שטיח"
+        },
+      "449":{
+          "english": "shuttle taxi",
+          "transliteration": "shei-rut",
+          "hebrew": "שירות"
+        },
+      "450":{
+          "english": "neighborhood",
+          "transliteration": "shkhu-na",
+          "hebrew": "שכונה"
+        },
+      "451":{
+          "english": "of",
+          "transliteration": "shel",
+          "hebrew": "של"
+        },
+      "452":{
+          "english": "hello",
+          "transliteration": "sha-lom",
+          "hebrew": "שלום"
+        },
+      "453":{
+          "english": "third (of something)",
+          "transliteration": "shlish",
+          "hebrew": "שליש"
+        },
+      "454":{
+          "english": "whole",
+          "transliteration": "sha-lem",
+          "hebrew": "שלם"
+        },
+      "455":{
+          "english": "there",
+          "transliteration": "sham",
+          "hebrew": "שם"
+        },
+      "456":{
+          "english": "name",
+          "transliteration": "shem",
+          "hebrew": "שם"
+        },
+      "457":{
+          "english": "surname",
+          "transliteration": "shem mish-pa-kha",
+          "hebrew": "שם משפחה"
+        },
+      "458":{
+          "english": "first name",
+          "transliteration": "shem pra-ti",
+          "hebrew": "שם פרטי"
+        },
+      "459":{
+          "english": "left (direction)",
+          "transliteration": "<u>smo</u>-la",
+          "hebrew": "שמאלה"
+        },
+      "460":{
+          "english": "sky",
+          "transliteration": "sha-<u>ma</u>-yim",
+          "hebrew": "שמיים"
+        },
+      "461":{
+          "english": "oil",
+          "transliteration": "<u>she</u>-men",
+          "hebrew": "שמן"
+        },
+      "462":{
+          "english": "fat",
+          "transliteration": "sha-men",
+          "hebrew": "שמן"
+        },
+      "463":{
+          "english": "sun",
+          "transliteration": "<u>she</u>-mesh",
+          "hebrew": "שמש"
+        },
+      "464":{
+          "english": "year",
+          "transliteration": "sha-na",
+          "hebrew": "שנה"
+        },
+      "465":{
+          "english": "second (time)",
+          "transliteration": "shni-ya",
+          "hebrew": "שניה"
+        },
+      "466":{
+          "english": "teeth",
+          "transliteration": "shi-<u>na</u>-yim",
+          "hebrew": "שיניים"
+        },
+      "467":{
+          "english": "schnitzel",
+          "transliteration": "<u>shni</u>-tsel",
+          "hebrew": "שניצל"
+        },
+      "468":{
+          "english": "hour",
+          "transliteration": "sha-a",
+          "hebrew": "שעה"
+        },
+      "469":{
+          "english": "clock",
+          "transliteration": "sha-on",
+          "hebrew": "שעון"
+        },
+      "470":{
+          "english": "lesson",
+          "transliteration": "shi-ur",
+          "hebrew": "שיעור"
+        },
+      "471":{
+          "english": "goal (soccer)",
+          "transliteration": "<u>sha</u>-ar",
+          "hebrew": "שער"
+        },
+      "472":{
+          "english": "hair",
+          "transliteration": "se-ar",
+          "hebrew": "שער"
+        },
+      "473":{
+          "english": "language",
+          "transliteration": "sa-fa",
+          "hebrew": "שפה"
+        },
+      "474":{
+          "english": "almond",
+          "transliteration": "sha-ked",
+          "hebrew": "שקד"
+        },
+      "475":{
+          "english": "quiet",
+          "transliteration": "<u>she</u>-ket",
+          "hebrew": "שקט"
+        },
+      "476":{
+          "english": "shekel",
+          "transliteration": "<u>she</u>-kel",
+          "hebrew": "שקל"
+        },
+      "477":{
+          "english": "shakshuka",
+          "transliteration": "shak-<u>shu</u>-ka",
+          "hebrew": "שקשוקה"
+        },
+      "478":{
+          "english": "toilet (bathroom)",
+          "transliteration": "she-ru-tim",
+          "hebrew": "שרותים"
+        },
+      "479":{
+          "english": "(a) drink",
+          "transliteration": "shti-ya",
+          "hebrew": "שתייה"
+        },
+      "480":{
+          "english": "fig",
+          "transliteration": "te-e-na",
+          "hebrew": "תאנה"
+        },
+      "481":{
+          "english": "date of birth",
+          "transliteration": "ta-a-rikh lei-da",
+          "hebrew": "תאריך לידה"
+        },
+      "482":{
+          "english": "tea",
+          "transliteration": "te",
+          "hebrew": "תה"
+        },
+      "483":{
+          "english": "thank you",
+          "transliteration": "to-da",
+          "hebrew": "תודה"
+        },
+      "484":{
+          "english": "strawberry",
+          "transliteration": "tut",
+          "hebrew": "תות"
+        },
+        "hobby":{
+          "transliteration": "takh-biv",
+          "hebrew": "תחביב"
+        },
+      "485":{
+          "english": "station, stop",
+          "transliteration": "ta-kha-na",
+          "hebrew": "תחנה"
+        },
+      "486":{
+          "english": "baby",
+          "transliteration": "ti-nok",
+          "hebrew": "תינוק"
+        },
+      "487":{
+          "english": "bag",
+          "transliteration": "tik",
+          "hebrew": "תיק"
+        },
+      "488":{
+          "english": "picture",
+          "transliteration": "tmu-na",
+          "hebrew": "תמונה"
+        },
+      "489":{
+          "english": "date (food)",
+          "transliteration": "ta-mar",
+          "hebrew": "תמר"
+        },
+      "490":{
+          "english": "traffic",
+          "transliteration": "tnu-a",
+          "hebrew": "תנועה"
+        },
+      "491":{
+          "english": "oven",
+          "transliteration": "ta-nur",
+          "hebrew": "תנור"
+        },
+      "492":{
+          "english": "orange (food)",
+          "transliteration": "ta-puz",
+          "hebrew": "תפוז"
+        },
+      "493":{
+          "english": "apple",
+          "transliteration": "ta-<u>pu</u>-akh",
+          "hebrew": "תפוח"
+        },
+      "494":{
+          "english": "potato",
+          "transliteration": "ta-<u>pu</u>-akh a-da-ma",
+          "hebrew": "תפוח אדמה"
+        },
+      "495":{
+          "english": "ceiling",
+          "transliteration": "tik-ra",
+          "hebrew": "תקרה"
+        },
+      "496":{
+          "english": "spinach",
+          "transliteration": "<u>te</u>-red",
+          "hebrew": "תרד"
+        },
+      "497":{
+          "english": "answer",
+          "transliteration": "tshu-va",
+          "hebrew": "תשובה"
+      }
+},
+      "most common verbs":{
+          "0": {
+              "english": "to be able to, can",
+              "future": "אוכל",
+              "present": "יכול",
+              "past": "יכולתי",
+              "infinitive": "להיות מסוגל"
+               },
+          "1": {
+              "english": "to like, love",
+              "future": "אוהב",
+              "present": "אוהב",
+              "past": "אהבתי",
+              "infinitive": "לאהוב"
+          },
+          "2": {
+              "english": "to be late",
+              "future": "אאחר",
+              "present": "מאחר",
+              "past": "אחרתי",
+              "infinitive": "לאחר"
+          },
+          "3": {
+              "english": "to eat",
+              "future": "אוכל",
+              "present": "אוכל",
+              "past": "אכלתי",
+              "infinitive": "לאכול"
+          },
+          "4": {
+              "english": "to come",
+              "future": "אבוא",
+              "present": "בא",
+              "past": "באתי",
+              "infinitive": "לבוא"
+          },
+          "5": {
+              "english": "to choose",
+              "future": "אבחר",
+              "present": "בוחר",
+              "past": "בחרתי",
+              "infinitive": "לבחור"
+          },
+          "6": {
+              "english": "to visit",
+              "future": "אבקר",
+              "present": "מבקר",
+              "past": "בקרתי",
+              "infinitive": "לבקר"
+          },
+          "7": {
+              "english": "to ask, request",
+              "future": "אבקש",
+              "present": "מבקש",
+              "past": "בקשתי",
+              "infinitive": "לבקש"
+          },
+          "8": {
+              "english": "to cook",
+              "future": "אבשל",
+              "present": "מבשל",
+              "past": "בשלתי",
+              "infinitive": "לבשל"
+          },
+          "9": {
+              "english": "to live",
+              "future": "אגור",
+              "present": "גר",
+              "past": "גרתי",
+              "infinitive": "לגור"
+          },
+          "10": {
+              "english": "to speak",
+              "future": "אדבר",
+              "present": "מדבר",
+              "past": "דברתי",
+              "infinitive": "לדבר"
+          },
+          "11": {
+              "english": "to know (something)",
+              "future": "אדע",
+              "present": "יודע",
+              "past": "ידעתי",
+              "infinitive": "לדעת "
+          },
+          "12": {
+              "english": "to believe",
+              "future": "אאמין",
+              "present": "מאמין",
+              "past": "האמנתי",
+              "infinitive": "להאמין"
+          },
+          "13": {
+              "english": "to bring",
+              "future": "אביא",
+              "present": "מביא",
+              "past": "הבאתי",
+              "infinitive": "להביא"
+          },
+          "14": {
+              "english": "to understand",
+              "future": "אבין",
+              "present": "מבין",
+              "past": "הבנתי",
+              "infinitive": "להבין"
+          },
+          "15": {
+              "english": "to say, tell",
+              "future": "אגיד",
+              "present": "",
+              "past": "",
+              "infinitive": "להגיד"
+          },
+          "16": {
+              "english": "to arrive",
+              "future": "אגיע",
+              "present": "מגיע",
+              "past": "הגעתי",
+              "infinitive": "להגיע"
+          },
+          "17": {
+              "english": "to order, invite",
+              "future": "אזמין",
+              "present": "מזמין",
+              "past": "הזמנתי",
+              "infinitive": "להזמין"
+          },
+          "18": {
+              "english": "to decide",
+              "future": "אחליט",
+              "present": "מחליט",
+              "past": "החלטתי",
+              "infinitive": "להחליט"
+          },
+          "19": {
+              "english": "to be",
+              "future": "אהיה",
+              "present": "הנני",
+              "past": "הייתי",
+              "infinitive": "להיות"
+          },
+          "20": {
+              "english": "to enter",
+              "future": "אכנס",
+              "present": "נכנס",
+              "past": "נכנסתי",
+              "infinitive": "להיכנס"
+          },
+          "21": {
+              "english": "to meet",
+              "future": "אפגש",
+              "present": "נפגש",
+              "past": "נפגשתי",
+              "infinitive": "להיפגש"
+          },
+          "22": {
+              "english": "to stay",
+              "future": "אשאר",
+              "present": "נשאר",
+              "past": "נשארתי",
+              "infinitive": "להישאר"
+          },
+          "23": {
+              "english": "to know (someone), be familiar with",
+              "future": "אכיר",
+              "present": "מכיר",
+              "past": "הכרתי",
+              "infinitive": "להכיר"
+          },
+          "24": {
+              "english": "to recommend",
+              "future": "אמליץ",
+              "present": "ממליץ",
+              "past": "המלצתי",
+              "infinitive": "להמליץ"
+          },
+          "25": {
+              "english": "to explain",
+              "future": "אסביר",
+              "present": "מסביר",
+              "past": "הסברתי",
+              "infinitive": "להסביר"
+          },
+          "26": {
+              "english": "to agree",
+              "future": "אסכים",
+              "present": "מסכים",
+              "past": "הסכמתי",
+              "infinitive": "להסכים"
+          },
+          "27": {
+              "english": "to look, watch",
+              "future": "אסתכל",
+              "present": "מסתכל",
+              "past": "הסתכלתי",
+              "infinitive": "להסתכל"
+          },
+          "28": {
+              "english": "to prefer",
+              "future": "אעדיף",
+              "present": "מעדיף",
+              "past": "העדפתי",
+              "infinitive": "להעדיף"
+          },
+          "29": {
+              "english": "to stop",
+              "future": "אפסיק",
+              "present": "מפסיק",
+              "past": "הפסקתי",
+              "infinitive": "להפסיק"
+          },
+          "30": {
+              "english": "to disturb",
+              "future": "אפריע",
+              "present": "מפריע",
+              "past": "הפרעתי",
+              "infinitive": "להפריע"
+          },
+          "31": {
+              "english": "to need",
+              "future": "אצטרך",
+              "present": "צריך",
+              "past": "הייתי צריך",
+              "infinitive": "להצטרך"
+          },
+          "32": {
+              "english": "to listen",
+              "future": "אקשיב",
+              "present": "מקשיב",
+              "past": "הקשבתי",
+              "infinitive": "להקשיב"
+          },
+          "33": {
+              "english": "to feel",
+              "future": "ארגיש",
+              "present": "מרגיש",
+              "past": "הרגשתי",
+              "infinitive": "להרגיש"
+          },
+          "34": {
+              "english": "to obtain",
+              "future": "אשיג",
+              "present": "משיג",
+              "past": "השגתי",
+              "infinitive": "להשיג"
+          },
+          "35": {
+              "english": "to use",
+              "future": "אשתמש",
+              "present": "משתמש",
+              "past": "השתמשתי",
+              "infinitive": "להשתמש"
+          },
+          "36": {
+              "english": "to participate",
+              "future": "אשתתף",
+              "present": "משתתף",
+              "past": "השתתפתי",
+              "infinitive": "להשתתף"
+          },
+          "37": {
+              "english": "to start",
+              "future": "אתחיל",
+              "present": "מתחיל",
+              "past": "התחלתי",
+              "infinitive": "להתחיל"
+          },
+          "38": {
+              "english": "to intend",
+              "future": "אתכוון",
+              "present": "מתכוון",
+              "past": "התכוונתי",
+              "infinitive": "להתכוון"
+          },
+          "39": {
+              "english": "to exercise",
+              "future": "אתעמל",
+              "present": "מתעמל",
+              "past": "התעמלתי",
+              "infinitive": "להתעמל"
+          },
+          "40": {
+              "english": "to phone, call",
+              "future": "אתקשר",
+              "present": "מתקשר",
+              "past": "התקשרתי",
+              "infinitive": "להתקשר"
+          },
+          "41": {
+              "english": "to say",
+              "future": "אומר",
+              "present": "אומר",
+              "past": "אמרתי",
+              "infinitive": "לומר"
+          },
+          "42": {
+              "english": "to move",
+              "future": "אזוז",
+              "present": "זז",
+              "past": "זזתי",
+              "infinitive": "לזוז"
+          },
+          "43": {
+              "english": "to remember",
+              "future": "אזכור",
+              "present": "זוכר",
+              "past": "זכרתי",
+              "infinitive": "לזכור"
+          },
+          "44": {
+              "english": "to return (come back); repeat",
+              "future": "אחזור",
+              "present": "חוזר",
+              "past": "חזרתי",
+              "infinitive": "לחזור"
+          },
+          "45": {
+              "english": "to wait",
+              "future": "אחכה",
+              "present": "מחכה",
+              "past": "חכיתי",
+              "infinitive": "לחכות"
+          },
+          "46": {
+              "english": "to park",
+              "future": "אחנה",
+              "present": "חונה",
+              "past": "חניתי",
+              "infinitive": "לחנות"
+          },
+          "47": {
+              "english": "to look for",
+              "future": "אחפש",
+              "present": "מחפש",
+              "past": "חפשתי",
+              "infinitive": "לחפש"
+          },
+          "48": {
+              "english": "to think",
+              "future": "אחשוב",
+              "present": "חושב",
+              "past": "חשבתי",
+              "infinitive": "לחשוב"
+          },
+          "49": {
+              "english": "to fly",
+              "future": "אטוס",
+              "present": "טס",
+              "past": "טסתי",
+              "infinitive": "לטוס"
+          },
+          "50": {
+              "english": "to enjoy",
+              "future": "אהנה ",
+              "present": "נהנה",
+              "past": "נהניתי",
+              "infinitive": "ליהנות"
+          },
+          "51": {
+              "english": "to create, produce, generate",
+              "future": "אצור",
+              "present": "יוצר",
+              "past": "יצרתי",
+              "infinitive": "ליצור"
+          },
+          "52": {
+              "english": "to sleep",
+              "future": "אישן",
+              "present": "ישן",
+              "past": "ישנתי",
+              "infinitive": "לישון"
+          },
+          "53": {
+              "english": "to write",
+              "future": "אכתוב",
+              "present": "כותב",
+              "past": "כתבתי",
+              "infinitive": "לכתוב"
+          },
+          "54": {
+              "english": "to wear",
+              "future": "אלבש",
+              "present": "לובש",
+              "past": "לבשתי",
+              "infinitive": "ללבוש"
+          },
+          "55": {
+              "english": "to go, walk",
+              "future": "אלך",
+              "present": "הולך",
+              "past": "הלכתי",
+              "infinitive": "ללכת"
+          },
+          "56": {
+              "english": "to teach",
+              "future": "אלמד",
+              "present": "מלמד",
+              "past": "למדתי",
+              "infinitive": "ללמד"
+          },
+          "57": {
+              "english": "to learn",
+              "future": "אלמד",
+              "present": "לומד",
+              "past": "למדתי",
+              "infinitive": "ללמוד"
+          },
+          "58": {
+              "english": "to die",
+              "future": "אמות",
+              "present": "מת",
+              "past": "מתי",
+              "infinitive": "למות"
+          },
+          "59": {
+              "english": "to sell",
+              "future": "אמכור",
+              "present": "מוכר",
+              "past": "מכרתי",
+              "infinitive": "למכור"
+          },
+          "60": {
+              "english": "to find",
+              "future": "אמצא",
+              "present": "מוצא",
+              "past": "מצאתי",
+              "infinitive": "למצוא"
+          },
+          "61": {
+              "english": "to drive",
+              "future": "אנהג",
+              "present": "נוהג",
+              "past": "נהגתי",
+              "infinitive": "לנהוג"
+          },
+          "62": {
+              "english": "to go, travel",
+              "future": "אסע",
+              "present": "נוסע",
+              "past": "נסעתי",
+              "infinitive": "לנסוע"
+          },
+          "63": {
+              "english": "to try",
+              "future": "אנסה",
+              "present": "מנסה",
+              "past": "נסיתי",
+              "infinitive": "לנסות"
+          },
+          "64": {
+              "english": "to win, beat, overcome",
+              "future": "אנצח",
+              "present": "מנצח",
+              "past": "נצחתי",
+              "infinitive": "לנצח"
+          },
+          "65": {
+              "english": "to close",
+              "future": "אסגור",
+              "present": "סוגר",
+              "past": "סגרתי",
+              "infinitive": "לסגור"
+          },
+          "66": {
+              "english": "to finish",
+              "future": "אסיים",
+              "present": "מסיים",
+              "past": "סיימתי",
+              "infinitive": "לסיים"
+          },
+          "67": {
+              "english": "to work",
+              "future": "אעבוד",
+              "present": "עובד",
+              "past": "עבדתי",
+              "infinitive": "לעבוד"
+          },
+          "68": {
+              "english": "to pass, transfer",
+              "future": "אעבור",
+              "present": "עובר",
+              "past": "עברתי",
+              "infinitive": "לעבור"
+          },
+          "69": {
+              "english": "to leave behind",
+              "future": "אעזוב",
+              "present": "עוזב",
+              "past": "עזבתי",
+              "infinitive": "לעזוב"
+          },
+          "70": {
+              "english": "to help",
+              "future": "אעזור",
+              "present": "עוזר",
+              "past": "עזרתי",
+              "infinitive": "לעזור"
+          },
+          "71": {
+              "english": "to answer",
+              "future": "אענה",
+              "present": "עונה",
+              "past": "עניתי",
+              "infinitive": "לענות"
+          },
+          "72": {
+              "english": "to stop",
+              "future": "אעצור",
+              "present": "עוצר",
+              "past": "עצרתי",
+              "infinitive": "לעצור"
+          },
+          "73": {
+              "english": "to arrange, organize; edit",
+              "future": "אערוך",
+              "present": "עורך",
+              "past": "ערכתי",
+              "infinitive": "לערוך"
+          },
+          "74": {
+              "english": "to do",
+              "future": "אעשה",
+              "present": "עושה",
+              "past": "עשיתי",
+              "infinitive": "לעשות"
+          },
+          "75": {
+              "english": "to meet",
+              "future": "אפגוש",
+              "present": "פוגש",
+              "past": "פגשתי",
+              "infinitive": "לפגוש"
+          },
+          "76": {
+              "english": "to exchange (break big bills)",
+              "future": "אפרוט",
+              "present": "פורט",
+              "past": "פרטתי",
+              "infinitive": "לפרוט"
+          },
+          "77": {
+              "english": "to open",
+              "future": "אפתח",
+              "present": "פותח",
+              "past": "פתחתי",
+              "infinitive": "לפתוח"
+          },
+          "78": {
+              "english": "to leave, exit",
+              "future": "אצא",
+              "present": "יוצא",
+              "past": "יצאתי",
+              "infinitive": "לצאת"
+          },
+          "79": {
+              "english": "to receive",
+              "future": "אקבל",
+              "present": "מקבל",
+              "past": "קבלתי",
+              "infinitive": "לקבל"
+          },
+          "80": {
+              "english": "to wake up",
+              "future": "אקום",
+              "present": "קם",
+              "past": "קמתי",
+              "infinitive": "לקום"
+          },
+          "81": {
+              "english": "to take",
+              "future": "אקח",
+              "present": "לוקח",
+              "past": "לקחתי",
+              "infinitive": "לקחת"
+          },
+          "82": {
+              "english": "to buy",
+              "future": "אקנה",
+              "present": "קונה",
+              "past": "קניתי",
+              "infinitive": "לקנות"
+          },
+          "83": {
+              "english": "to read; call/name",
+              "future": "אקרא",
+              "present": "קורא",
+              "past": "קראתי",
+              "infinitive": "לקרוא"
+          },
+          "84": {
+              "english": "to see",
+              "future": "אראה",
+              "present": "רואה",
+              "past": "ראיתי",
+              "infinitive": "לראות"
+          },
+          "85": {
+              "english": "to descend, come down",
+              "future": "ארד",
+              "present": "יורד",
+              "past": "ירדתי",
+              "infinitive": "לרדת"
+          },
+          "86": {
+              "english": "to run",
+              "future": "ארוץ",
+              "present": "רץ",
+              "past": "רצתי",
+              "infinitive": "לרוץ"
+          },
+          "87": {
+              "english": "to wash",
+              "future": "ארחץ",
+              "present": "רוחץ",
+              "past": "רחצתי",
+              "infinitive": "לרחוץ"
+          },
+          "88": {
+              "english": "to want",
+              "future": "ארצה",
+              "present": "רוצה",
+              "past": "רציתי",
+              "infinitive": "לרצות"
+          },
+          "89": {
+              "english": "to ask, question, borrow",
+              "future": "אשאל",
+              "present": "שואל",
+              "past": "שאלתי",
+              "infinitive": "לשאול"
+          },
+          "90": {
+              "english": "to sit",
+              "future": "אשב",
+              "present": "יושב",
+              "past": "ישבתי",
+              "infinitive": "לשבת"
+          },
+          "91": {
+              "english": "to play",
+              "future": "אשחק",
+              "present": "משחק",
+              "past": "שחקתי",
+              "infinitive": "לשחק"
+          },
+          "92": {
+              "english": "to forget",
+              "future": "אשכח",
+              "present": "שוכח",
+              "past": "שכחתי",
+              "infinitive": "לשכוח"
+          },
+          "93": {
+              "english": "to rent (from someone)",
+              "future": "אשכור",
+              "present": "שוכר",
+              "past": "שכרתי",
+              "infinitive": "לשכור"
+          },
+          "94": {
+              "english": "to send",
+              "future": "אשלח",
+              "present": "שולח",
+              "past": "שלחתי",
+              "infinitive": "לשלוח"
+          },
+          "95": {
+              "english": "to pay",
+              "future": "אשלם",
+              "present": "משלם",
+              "past": "שלמתי",
+              "infinitive": "לשלם"
+          },
+          "96": {
+              "english": "to be happy",
+              "future": "אשמח",
+              "present": "שמח",
+              "past": "שמחתי",
+              "infinitive": "לשמוח"
+          },
+          "97": {
+              "english": "to hear",
+              "future": "אשמע",
+              "present": "שומע",
+              "past": "שמעתי",
+              "infinitive": "לשמוע"
+              },
+          "98": {
+              "english": "to drink",
+                  "future": "אשתה",
+                  "present": "שותה",
+                  "past": "שתיתי",
+                  "infinitive":"לשתות"
+              },
+          "99": {
+              "english": "to give",
+                  "future": "אתן",
+                  "present": "נותן",
+                  "past": "נתתי",
+                  "infinitive":"לתת"
+          }
+  },
+      "common adjectives": {
+      "0": {
+              "english": "angry",
+              "hebrew": "כועס",
+              "transliteration": "koes"
+      },
+
+      "1": {
+          "english": "annoying",
+              "hebrew": "מעצבן",
+              "transliteration": "meatsben"
+      },
+
+      "2": {
+          "english": "bad",
+          "hebrew": "רע",
+          "transliteration": "ra"
+      },
+
+      "3": {
+          "english": "beautiful",
+          "hebrew": "יפהפה",
+          "transliteration": "yefefe"
+      },
+
+      "4": {
+          "english": "bored",
+          "hebrew": "משועמם",
+          "transliteration": "mshuamam"
+      },
+
+      "5": {
+          "english": "boring",
+          "hebrew": "משעמם",
+          "transliteration": "meshaamem"
+      },
+
+      "6": {
+          "english": "busy",
+          "hebrew": "עסוק",
+          "transliteration": "asuk"
+      },
+
+      "7": {
+          "english": "calm",
+          "hebrew": "רגוע",
+          "transliteration": "ragua"
+      },
+
+      "8": {
+          "english": "cheap",
+          "hebrew": "זול",
+          "transliteration": "zol"
+      },
+
+      "9": {
+          "english": "clean",
+          "hebrew": "נקי",
+          "transliteration": "naki"
+      },
+
+      "10": {
+          "english": "cold",
+          "hebrew": "קר",
+          "transliteration": "kar"
+      },
+
+      "11": {
+          "english": "cool",
+          "hebrew": "קריר",
+          "transliteration": "karir"
+      },
+
+      "12": {
+          "english": "cool",
+          "hebrew": "מגניב",
+          "transliteration": "magniv"
+      },
+
+      "13": {
+          "english": "dark",
+          "hebrew": "כהה",
+          "transliteration": "kehe"
+      },
+
+      "14": {
+          "english": "deep",
+          "hebrew": "עמוק",
+          "transliteration": "amok"
+      },
+
+      "15": {
+          "english": "delicious",
+          "hebrew": "טעים",
+          "transliteration": "imtaim"
+      },
+
+      "16": {
+          "english": "difficult",
+          "hebrew": "קשה",
+          "transliteration": "hekashe"
+      },
+
+      "17": {
+          "english": "dirty",
+          "hebrew": "מלוכלך",
+          "transliteration": "uchlachmeluchlach"
+      },
+
+      "18": {
+          "english": "disgusting",
+          "hebrew": "מגעיל",
+          "transliteration": "ilmagil"
+      },
+
+      "19": {
+          "english": "dissatisfied",
+          "hebrew": "-בלתי-מרוצה",
+          "transliteration": "ti merutsebilti merutse"
+      },
+
+      "20": {
+          "english": "easy",
+          "hebrew": "קל",
+          "transliteration": "kal"
+      },
+
+      "21": {
+          "english": "embarrassed",
+          "hebrew": "נבוך",
+          "transliteration": "navoch"
+      },
+
+      "22": {
+          "english": "excited",
+          "hebrew": "נרגש",
+          "transliteration": "nirgash"
+      },
+
+      "23": {
+          "english": "exciting",
+          "hebrew": "מרגש",
+          "transliteration": "meragesh"
+      },
+
+      "24": {
+          "english": "expensive",
+          "hebrew": "יקר",
+          "transliteration": "yakar"
+      },
+
+      "25": {
+          "english": "famous",
+          "hebrew": "מפורסם",
+          "transliteration": "mefursam"
+      },
+
+      "26": {
+          "english": "far",
+          "hebrew": "רחוק",
+          "transliteration": "rachok"
+      },
+
+      "27": {
+          "english": "funny",
+          "hebrew": "מצחיק",
+          "transliteration": "matzchik"
+      },
+
+      "28": {
+          "english": "good",
+          "hebrew": "טוב",
+          "transliteration": "tov"
+      },
+
+      "29": {
+          "english": "happy",
+          "hebrew": "שמח",
+          "transliteration": "sameach"
+      },
+
+      "30": {
+          "english": "hard",
+          "hebrew": "קשה",
+          "transliteration": "kasheh"
+      },
+
+      "31": {
+          "english": "high",
+          "hebrew": "גבוה",
+          "transliteration": "gavoha"
+      },
+
+      "32": {
+          "english": "hopeful",
+          "hebrew": "-מלא-תקווה",
+          "transliteration": "mele tikva"
+      },
+
+      "33": {
+          "english": "hot",
+          "hebrew": "חם",
+          "transliteration": "cham"
+      },
+
+      "34": {
+          "english": "important",
+          "hebrew": "חשוב",
+          "transliteration": "chashuv"
+      },
+
+      "35": {
+          "english": "insignificant",
+          "hebrew": "-חסר-משמעות",
+          "transliteration": "chasar mashmaut"
+      },
+
+      "36": {
+          "english": "interesting",
+          "hebrew": "מעניין",
+          "transliteration": "meanyen"
+      },
+
+      "37": {
+          "english": "kind",
+          "hebrew": "אדיב",
+          "transliteration": "adiv"
+      },
+
+      "38": {
+          "english": "light",
+          "hebrew": "קל",
+          "transliteration": "kal"
+      },
+
+      "39": {
+          "english": "low",
+          "hebrew": "נמוך",
+          "transliteration": "namuch"
+      },
+
+      "40": {
+          "english": "mean",
+          "hebrew": "מרושע",
+          "transliteration": "merusha"
+      },
+
+      "41": {
+          "english": "narrow",
+          "hebrew": "צר",
+          "transliteration": "tzar"
+      },
+
+      "42": {
+          "english": "near",
+          "hebrew": "קרוב",
+          "transliteration": "karov"
+      },
+
+      "43": {
+          "english": "nervous",
+          "hebrew": "לחוץ",
+          "transliteration": "lachutz"
+      },
+
+      "44": {
+          "english": "painful",
+          "hebrew": "כואב",
+          "transliteration": "koev"
+      },
+
+      "45": {
+          "english": "poor",
+          "hebrew": "עני",
+          "transliteration": "ani"
+      },
+
+      "46": {
+          "english": "popular",
+          "hebrew": "פופולארי",
+          "transliteration": "populari"
+      },
+
+      "47": {
+          "english": "relaxing",
+          "hebrew": "מרגיע",
+          "transliteration": "margia"
+      },
+
+      "48": {
+          "english": "rich",
+          "hebrew": "עשיר",
+          "transliteration": "ashir"
+      },
+
+      "49": {
+          "english": "sad",
+          "hebrew": "עצוב",
+          "transliteration": "atzuv"
+      },
+
+      "50": {
+          "english": "satisfied",
+          "hebrew": "מרוצה",
+          "transliteration": "merutzeh"
+      },
+
+      "51": {
+          "english": "scary",
+          "hebrew": "מפחיד",
+          "transliteration": "mafchid"
+      },
+
+      "52": {
+          "english": "serious",
+          "hebrew": "רציני",
+          "transliteration": "retsini"
+      },
+
+      "53": {
+          "english": "shallow",
+          "hebrew": "שטחי",
+          "transliteration": "shitchi"
+      },
+
+      "54": {
+          "english": "shy",
+          "hebrew": "ביישן",
+          "transliteration": "bayshan"
+      },
+
+      "55": {
+          "english": "small",
+          "hebrew": "קטן",
+          "transliteration": "katan"
+      },
+
+      "56": {
+          "english": "soft",
+          "hebrew": "רך",
+          "transliteration": "rach"
+      },
+
+      "57": {
+          "english": "strong",
+          "hebrew": "חזק",
+          "transliteration": "chazak"
+      },
+
+      "58": {
+          "english": "tired",
+          "hebrew": "עייף",
+          "transliteration": "ayef"
+      },
+
+      "59": {
+          "english": "ugly",
+          "hebrew": "מכוער",
+          "transliteration": "mechoar"
+      },
+
+      "60": {
+          "english": "warm",
+          "hebrew": "חמים",
+          "transliteration": "khamim"
+      },
+
+      "61": {
+          "english": "weak",
+          "hebrew": "חלש",
+          "transliteration": "chalash"
+      },
+
+      "62": {
+          "english": "wide",
+          "hebrew": "רחב",
+          "transliteration": "rachav"
+      }
+  }
+}
