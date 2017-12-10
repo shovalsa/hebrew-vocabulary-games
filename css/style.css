@@ -26,12 +26,9 @@ h1 {
     border-radius: 9px;
 }
 
-#hbWord {
-  display: none;
-}
 
 button {
-  background: #ddb603;
+    background: #ddb603;
     border: 0;
     color: #dff3fb;
     font-size: 20px;
@@ -44,4 +41,27 @@ button {
     font-weight: bold;
 }
 
+.closed-card {
+  background-color: #610;
+  height: 150px;
+  width: 150px;
+  float: left;
+  margin: 10px;
+}
 
+.open-card {
+  background-color: #ddb603;
+  height: 150px;
+  width: 150px;
+  float: left;
+  margin: 10px;
+}
+
+.card-row {
+  display: inline-table;
+}
+
+
+#board {
+  float: center;
+}

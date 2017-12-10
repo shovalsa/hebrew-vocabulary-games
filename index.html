@@ -3,18 +3,24 @@
 <head>
 	<meta charset="utf-8">
 	<title>vocab practicing</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
-	<script src="randword.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="./css/style.css">
 </head>
 <body>
-	<h1>Vocab Practice</h1>
-	
-    <button onclick="allTogether()">Get a word</button>
+	<h1>Vocabulary Practice</h1>
+	    <h2>Choose a Game</h2>
+	    <select id="chooseGame">
+	    	<option value="recall-words">Recall Words</option>
+	    	<option value="memory-game">Memory Game</option>
+	    </select>
 
-   <p id="somep">
-   	<button id=engWord class="wordbox" onclick="showHide()"></button>
-   	<span id=hbWord class="wordbox"></span>
-  </p>
-
+	    <h2>Choose a List</h2>
+	    <select id="chooseList">
+	    	<option value="common">Common Hebrew words</option>
+	    	<option value="verbs">Most common Hebrew Verbs</option>
+	    	<option value="adjectives">Useful Adjectives</option>
+	    </select>
+	    	<!-- <button id="choices">Start Game!</button>     -->
+    	<input type="button" value="Start Game!" id="choices" onclick="redirectToGame()">
+	<script src="./js/randword.js" type="text/javascript"></script>
 </body>
 </html>

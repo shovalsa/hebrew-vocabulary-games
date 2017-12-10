@@ -1,5 +1,5 @@
 {
-    "most common 500 words":[
+    "common":[
       {
         "english": "dad",
         "transliteration": "<u>a</u>-ba",
@@ -2496,7 +2496,7 @@
           "hebrew": "תשובה"
       }
   ],
-      "most common verbs":[
+      "verbs":[
            {
               "english": "to be able to, can",
               "future": "אוכל",
@@ -3198,7 +3198,7 @@
                   "infinitive":"לתת"
           }
   ],
-      "common adjectives": [
+      "adjectives": [
        {
               "english": "angry",
               "hebrew": "כועס",
